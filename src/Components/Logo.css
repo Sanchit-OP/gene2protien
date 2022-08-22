@@ -1,0 +1,7 @@
+.logo{
+    background-image: url("../Ui/g2p_logo.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 100px;
+}
