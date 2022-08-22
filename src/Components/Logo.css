@@ -1,7 +1,8 @@
 .logo{
-    background-image: url("../Ui/g2p_logo.svg");
+    background-image: url("../Ui/g20.png");
     background-repeat: no-repeat;
     background-size: contain;
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 150px;
+    margin: 23px ;
 }
