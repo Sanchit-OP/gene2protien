@@ -1,0 +1,18 @@
+.main{
+    margin: 120px;
+    margin-left: 150px;
+}
+.heading{
+    color:#107586;
+    font-family: poppins;
+    font-size: 5em;
+    margin-bottom: 20px;
+    line-height: 0.8em;
+}
+.para{
+    color: white;
+    line-height: 1.25em;
+    margin-right: 220px;
+    font-size: 14px;
+    font-weight: 600;
+}
