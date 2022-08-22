@@ -1,6 +1,7 @@
 .item{
-    margin:10px 40px ;
+    margin:33px 60px ;
 }
 .itemName{
-    color: #DEDEDB;
+    color: white;
+    font-weight: 600;
 }
