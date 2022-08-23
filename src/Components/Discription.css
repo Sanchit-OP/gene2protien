@@ -5,7 +5,7 @@
 .heading{
     color:#107586;
     font-family: poppins;
-    font-size: 5em;
+    font-size: 4.6em;
     margin-bottom: 20px;
     line-height: 0.8em;
 }
@@ -13,6 +13,7 @@
     color: white;
     line-height: 1.25em;
     margin-right: 220px;
+    margin-left: 100px;
     font-size: 14px;
     font-weight: 600;
 }
