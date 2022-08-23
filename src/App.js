@@ -1,6 +1,7 @@
 import Menubar from './Components/Menubar';
 import Landtext from './Components/Landtext';
 import Discription from './Components/Discription';
+import AboutUs from './Components/AboutUs';
 
 function App() {
   return (
@@ -10,6 +11,8 @@ function App() {
       <Landtext />
       
       <Discription />
+
+      <AboutUs />
     </div>
   );
 }
