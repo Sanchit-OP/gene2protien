@@ -1,9 +1,8 @@
 .banner-container{
-    background-image: url("../Ui/Pills_Bottle_v02.png");
+    background-image: url("../Ui/Pills_Bottle_v02_dull.png");
     background-repeat: no-repeat;
     background-position: 90%;
     background-size: 70%;
-    opacity: 0.5;
     margin: 130px;
     margin-bottom: 250px;
     margin-left: 160px;
