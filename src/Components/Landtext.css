@@ -1,0 +1,32 @@
+.banner-container{
+    margin: 130px;
+    margin-left: 160px;
+}
+.ban-button{
+    width: 150px;
+    height: 40px;
+    margin-top: 7em;
+    background-color: #107586;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    font-size: 0.7em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    
+}
+.d-blue{
+    color: #107586;
+}
+.white{
+    color:white;
+}
+.land-title{
+    margin-bottom: 0px;
+    font-size: 5em;
+}
+.under-title{
+    margin-top: 0px;
+    font-size: 14px;
+
+}
