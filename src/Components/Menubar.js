@@ -3,15 +3,17 @@ import MenuItem from './MenuItem';
 import Logo from './Logo';
 function Menubar(){
     return(
-        <div className='menubar'>
+        <div className='main-menu'>
             <Logo />
-            <MenuItem name='products'/>
-            <MenuItem name='resource'/>
-            <MenuItem name='carrers'/>
-            <MenuItem name='menu'/>
-            <MenuItem name='about'/>
-            <MenuItem name='services'/>
-            <MenuItem name='contact'/>
+            <div className='menubar'>
+                <MenuItem name='products'/>
+                <MenuItem name='resource'/>
+                <MenuItem name='carrers'/>
+                <MenuItem name='menu'/>
+                <MenuItem name='about'/>
+                <MenuItem name='services'/>
+                <MenuItem name='contact'/>
+            </div>
         </div>
     );
 }

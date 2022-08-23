@@ -1,5 +1,7 @@
 .banner-container{
+    z-index: 100;
     margin: 130px;
+    margin-bottom: 250px;
     margin-left: 160px;
 }
 .ban-button{
@@ -29,4 +31,11 @@
     margin-top: 0px;
     font-size: 14px;
 
+}
+#Bottle-style{
+    position:static;
+    width: 50vw;
+    height: auto;
+    z-index: 10;
+    
 }
