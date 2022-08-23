@@ -1,5 +1,12 @@
-.menubar{
+.main-menu{
     display: flex;
     flex-direction: row;
-    
+    justify-content: space-between;
+    border-top: solid white 10px ;
 }
+.menubar{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    
+}   

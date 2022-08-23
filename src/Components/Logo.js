@@ -1,9 +1,9 @@
 import './Logo.css';
-
+import LogoG from '../Ui/g20.png';
 function Logo(){
     return(
         <div className="logo">
-            {/* <img className="logo" src="../Ui/g2p_logo.svg"></img> */}
+            <img className="logo" src={LogoG} />
         </div>
     )
 }
