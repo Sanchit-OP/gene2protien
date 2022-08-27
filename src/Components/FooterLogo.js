@@ -4,7 +4,7 @@ import LogoBlack from '../Ui/g20black.png';
 function FooterLogo(){
     return(
         <div>
-            <img src={LogoBlack} ></img>
+            <img className="footlogo" src={LogoBlack} ></img>
         </div>
     );
 }
