@@ -1,0 +1,11 @@
+.footlistitems{
+    list-style-type: none;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+li{
+    line-height: 40px;
+}
