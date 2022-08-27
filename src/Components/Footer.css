@@ -1,0 +1,11 @@
+.footer-container{
+    padding: 50px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* .bground{
+    background-color: white;
+} */

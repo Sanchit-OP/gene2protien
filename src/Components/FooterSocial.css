@@ -1,0 +1,14 @@
+.social-container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-right: 50px;
+}
+
+.icon{
+    height: 23px;
+    width: auto;
+}
+.follow{
+    letter-spacing: 2px;
+}
