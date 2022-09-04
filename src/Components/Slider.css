@@ -1,0 +1,16 @@
+.flex-img{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+.img-sty{
+    display: inline-block;
+    width: 500px;
+    height: 150px;
+    padding: 2em;
+}
+.style{
+    width: 100%;
+    height: 100%;
+    overflow-x: scroll;
+}
