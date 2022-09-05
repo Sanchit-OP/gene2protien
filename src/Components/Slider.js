@@ -1,22 +1,38 @@
 import React from "react";
-import { data } from "./Imagedata";
-import './Slider.css';
+import "./Slider.css";
+import { motion } from "framer-motion";
+import { useRef, useEffect, useState } from "react";
+import image from "../Ui/image_asset/imagedata";
 
-function Slider(){
-    return(
-        <>
-        <div>
-            <h1>Our Projects</h1>
+function Slider() { 
+    const [width,setWidth]=useState(0);
+    const carousel =useRef();
+
+    useEffect(()=>{
+        setWidth(carousel.current.scrollWidth - carousel.current.offsetWidth );
+    },[]);
+
+    return (
+        <div className="ourproject">
+        <h1 className="headings">
+            Our Projects
+        </h1>
+        <motion.div ref={carousel} className="carousel">
+            <motion.div
+            drag="x"
+            dragConstraints={{ right: 0 , left: -width}}
+            className="inner-carousel"
+            >
+            {image.map((image) => {
+                return (
+                <motion.div className="imagee">
+                    <img src={image} alt="" />
+                </motion.div>
+                );
+            })}
+            </motion.div>
+        </motion.div>
         </div>
-        <div className="flex-img">
-            <div className="style">
-                {data.map((item) =>(
-                    <img className="img-sty"  src={item.img} />
-                ))}
-            </div>
-        </div>
-        </>
     );
-
 }
 export default Slider;

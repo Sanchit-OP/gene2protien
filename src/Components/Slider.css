@@ -1,16 +1,30 @@
-.flex-img{
-    display: flex;
-    position: relative;
-    align-items: center;
+.imagee{
+    min-height: 15rem;
+    min-width: 22.5rem;
+    margin: 1rem;
 }
-.img-sty{
-    display: inline-block;
-    width: 500px;
-    height: 150px;
-    padding: 2em;
-}
-.style{
+
+.imagee img{
     width: 100%;
     height: 100%;
-    overflow-x: scroll;
+    border-radius: 2rem;
+    pointer-events: none;
+}
+
+.inner-carousel{
+    display: flex;
+}
+.carousel{
+    cursor: grab;
+    overflow: hidden;
+}
+.ourproject{
+    margin: 0 10%;
+}
+.headings{
+    color:#107586;
+    font-family: poppins;
+    font-size: 4.2em;
+    margin-bottom: 20px;
+    line-height: 0.8em;
 }
