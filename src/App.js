@@ -1,21 +1,12 @@
-import Menubar from './Components/Menubar';
-import Landtext from './Components/Landtext';
-import Discription from './Components/Discription';
-import AboutUs from './Components/AboutUs';
-import FooterOutside from './Components/FooterOutside';
+import { Route, Routes } from 'react-router-dom';
+import Home from './pages/home';
 
 function App() {
   return (
-    <div>
-      <Menubar />
-
-      <Landtext />
-      
-      <Discription />
-
-      <AboutUs />
-      <FooterOutside />
-    </div>
+    <Routes>
+      <Route path='/' element={<Home />} />
+      <Route path='/home' element={<Home />} />
+    </Routes>
   );
 }
 
