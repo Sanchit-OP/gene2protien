@@ -2,7 +2,7 @@ import Menubar from './Components/Menubar';
 import Landtext from './Components/Landtext';
 import Discription from './Components/Discription';
 import AboutUs from './Components/AboutUs';
-import Footer from './Components/Footer';
+import FooterOutside from './Components/FooterOutside';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Discription />
 
       <AboutUs />
-      <Footer/>
+      <FooterOutside />
     </div>
   );
 }
