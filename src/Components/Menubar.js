@@ -6,12 +6,11 @@ function Menubar(){
         <div className='main-menu'>
             <Logo />
             <div className='menubar'>
-                <MenuItem name='products'/>
+                <MenuItem name='About'/>
+                <MenuItem name='Products'/>
+                <MenuItem name='service'/>
                 <MenuItem name='resource'/>
-                <MenuItem name='carrers'/>
-                <MenuItem name='menu'/>
-                <MenuItem name='about'/>
-                <MenuItem name='services'/>
+                <MenuItem name='carrer'/>
                 <MenuItem name='contact'/>
             </div>
         </div>
