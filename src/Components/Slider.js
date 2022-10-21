@@ -13,6 +13,7 @@ function Slider() {
     },[]);
 
     return (
+        <div className="back">
         <div className="ourproject">
         <h1 className="headings">
             Our Projects
@@ -32,6 +33,7 @@ function Slider() {
             })}
             </motion.div>
         </motion.div>
+        </div>
         </div>
     );
 }

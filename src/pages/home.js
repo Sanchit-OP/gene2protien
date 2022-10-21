@@ -14,8 +14,8 @@ function Home() {
         
         <Discription />
   
-        <AboutUs />
         <Slider />
+        <AboutUs />
         <FooterOutside/>
       </div>
     );
