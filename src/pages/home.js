@@ -9,11 +9,8 @@ function Home() {
     return (
       <div>
         <Menubar />
-  
         <Landtext />
-        
         <Discription />
-  
         <Slider />
         <AboutUs />
         <FooterOutside/>
