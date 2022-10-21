@@ -2,12 +2,13 @@
     min-height: 15rem;
     min-width: 22.5rem;
     margin: 1rem;
+    
 }
 
 .imagee img{
     width: 100%;
     height: 100%;
-    border-radius: 2rem;
+    border-radius: 1%;
     pointer-events: none;
 }
 
@@ -15,11 +16,14 @@
     display: flex;
 }
 .carousel{
+    margin-left: -8%;
+    margin-right: -8%;
     cursor: grab;
     overflow: hidden;
 }
 .ourproject{
     margin: 0 10%;
+    
 }
 .headings{
     color:#107586;
@@ -27,4 +31,11 @@
     font-size: 4.2em;
     margin-bottom: 20px;
     line-height: 0.8em;
+}
+
+.back{
+    background-color:#28A282;
+    height:70vh;
+    padding:1%;
+    padding-bottom: 0px;
 }
