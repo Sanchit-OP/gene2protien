@@ -1,11 +1,11 @@
-import './Menubar.css';
+
 import MenuItem from './MenuItem';
 import Logo from './Logo';
 function Menubar(){
     return(
-        <div className='main-menu'>
+        <div className='flex flex-row justify-between'>
             <Logo />
-            <div className='menubar'>
+            <div className='flex flex-row justify-around'>
                 <MenuItem name='About'/>
                 <MenuItem name='Products'/>
                 <MenuItem name='service'/>

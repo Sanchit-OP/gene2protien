@@ -1,4 +1,3 @@
-import './FooterSocial.css';
 import FaceBook from '../Ui/facebook.svg';
 import Twitter from '../Ui/twitter.svg';
 import LinkedIn from '../Ui/linkedin.svg';
@@ -6,11 +5,11 @@ import LinkedIn from '../Ui/linkedin.svg';
 function FooterSocial(){
     return(
         <div>
-            <h5 class="follow">FOLLOW US</h5>
-            <div class="social-container">
-                <img className="icon" src={FaceBook} />
-                <img className="icon" src={Twitter} />
-                <img className="icon" src={LinkedIn} />
+            <h5 class="tracking-widest">FOLLOW US</h5>
+            <div class="flex justify-between flex-row w-24 mr-12">
+                <img className="h-6 w-auto" src={FaceBook} />
+                <img className="h-6 w-auto" src={Twitter} />
+                <img className="h-6 w-auto" src={LinkedIn} />
             </div>
         </div>
     );

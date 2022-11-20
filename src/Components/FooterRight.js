@@ -1,4 +1,3 @@
-import './FooterRight.css';
 import FooterList from './FooterList';
 import FooterSocial from './FooterSocial';
 
@@ -7,7 +6,7 @@ function FooterRight(){
     var l2= ["COMPANY", "Press Releases", "Mission", "Strategy", "Works"];
     var l3= ["INFO", "Support", "Developers", "Service", "Get Started"];
     return(
-        <div className="footer-right-container">
+        <div className="flex ml-48">
             <FooterList name={l1}/>
             <FooterList name={l2}/>
             <FooterList name={l3}/>
