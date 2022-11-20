@@ -9,6 +9,5 @@ function Product() {
             <ProductCombined />
         </div>
     );
-}
 
 export default Product;
