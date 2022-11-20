@@ -1,10 +1,10 @@
 import React from "react";
 
-function Product(){
-    return(
-        <>
-            
-        </>
+
+function Product() {
+    return (
+        <></>
+
     );
 }
 

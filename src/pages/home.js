@@ -6,16 +6,16 @@ import FooterOutside from '../Components/FooterOutside';
 import Slider from '../Components/Slider';
 
 function Home() {
-    return (
-      <div>
-        <Menubar />
-        <Landtext />
-        <Discription />
-        <Slider />
-        <AboutUs />
-        <FooterOutside/>
-      </div>
-    );
-  }
-  
-  export default Home;
+  return (
+    <div>
+      <Menubar />
+      <Landtext />
+      <Discription />
+      <Slider />
+      <AboutUs />
+      <FooterOutside />
+    </div>
+  );
+}
+
+export default Home;
