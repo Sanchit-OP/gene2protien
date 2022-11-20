@@ -1,11 +1,13 @@
 import React from "react";
-function Product() {
-  
+import ProductCombined from "../Components/ProductCombined";
+import ProductTitle from "../Components/ProductTitle";
 
-  return (
-    <>
-    </>
-  );
-}
+function Product() {
+    return (
+        <div>
+            <ProductTitle />
+            <ProductCombined />
+        </div>
+    );
 
 export default Product;
