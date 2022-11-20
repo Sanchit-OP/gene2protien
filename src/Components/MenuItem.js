@@ -1,9 +1,9 @@
-import "./MenuItem.css";
+
 
 function MenuItem(props) {
   return( 
-    <div className="item">
-        <div className="itemName" > {props.name.toUpperCase()} </div>
+    <div className="m-10">
+        <div className="text-white font-bold" > {props.name.toUpperCase()} </div>
     </div>
   );
 }
