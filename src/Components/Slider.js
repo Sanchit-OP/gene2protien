@@ -13,10 +13,10 @@ function Slider() {
     },[]);
 
     return (
-        <div className="back">
+        <div className="back my-10 ">
         <div className="ourproject">
-        <h1 className="headings">
-            Our Projects
+        <h1 className="headings p-2 mb:p-0">
+            Our Mission
         </h1>
         <motion.div ref={carousel} className="carousel">
             <motion.div
