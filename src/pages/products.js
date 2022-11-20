@@ -1,11 +1,11 @@
 import React from "react";
-
-
 function Product() {
-    return (
-        <></>
+  
 
-    );
+  return (
+    <>
+    </>
+  );
 }
 
 export default Product;
