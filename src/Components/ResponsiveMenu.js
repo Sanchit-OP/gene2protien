@@ -8,7 +8,7 @@ export default function ResponsiveMenu() {
   return (
     <div className="flex items-center justify-between  py-8">
       <a href="/">
-        <img className="max-w-[17rem] m-3" src={LogoG} alt="logo" />
+        <img className="max-w-[17rem] opacity-100 duration-[600ms] m-3 hover:opacity-80" src={LogoG} alt="logo" />
       </a>
       <nav>
         <section className="MOBILE-MENU flex lg:hidden">
@@ -64,26 +64,26 @@ export default function ResponsiveMenu() {
 
         <ul className="DESKTOP-MENU hidden space-x-8 lg:flex text-2xl font-[500] text-white mx-20">
           <li >
-            <a className="mx-3" href="/about">About</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/about">About</a>
           </li>
           <li >
-            <a className="mx-3" href="/Products">Products</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/Products">Products</a>
           </li>
           <li >
-            <a className="mx-3" href="/Service">Service</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/Service">Service</a>
           </li>
           <li >
-            <a className="mx-3" href="/Resource">Resource</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/Resource">Resource</a>
           </li>
           <li >
-            <a className="mx-3" href="/Carrer">Carrer</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/Carrer">Carrer</a>
           </li>
           <li >
-            <a className="mx-3" href="/Contact">Contact</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/Contact">Contact</a>
           </li>
         </ul>
       </nav>
-    <style>{`
+      <style>{`
         .hideMenuNav {
             display: none;
         }
@@ -102,7 +102,7 @@ export default function ResponsiveMenu() {
             align-items: center;
         }
         `}
-    </style>
+      </style>
     </div>
   );
 }
