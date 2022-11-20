@@ -1,10 +1,11 @@
 import React from "react";
+import ProductPage from '../Components/ProductPage';
 
-function Product(){
-    return(
-        <>
-            
-        </>
+
+function Product() {
+    return (
+        <ProductPage />
+
     );
 }
 
