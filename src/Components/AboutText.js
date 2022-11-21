@@ -1,4 +1,4 @@
-
+import React from "react";
 function AboutText(){
     return(
         <div className=' m-36  mt-48 hidden md:block'>
