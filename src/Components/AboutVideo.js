@@ -1,4 +1,3 @@
-import interview from '../Ui/interview.mp4'
 
 function AboutVideo() {
     return (
