@@ -6,9 +6,9 @@ function Landtext(){
             <div class="banner-container  ">
                 <h1 className="land-title d-blue">Lorem Ipsum lore ip</h1>
                 <h5 className="under-title white">Lorem Ipsum Lorem Ipsum </h5>
-                <div className='duration-100 hover:text-sm '>
+                <a className='duration-100 hover:text-sm ' href='/about' >
                     <button className="ban-button white duration-100  ">LEARN MORE</button>
-                </div>
+                </a>
                 
             </div>
         </div>
