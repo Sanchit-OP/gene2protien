@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import Contact from '../Components/Contact';
+import FooterOutside from '../Components/FooterOutside';
 
 export default function ContactUs(){
     
@@ -16,6 +17,7 @@ export default function ContactUs(){
             <textarea name="message" />
             <input type="submit" value="Send" />
         </form> */}
+        <FooterOutside />
       </div>
     );
 }
