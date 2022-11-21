@@ -1,7 +1,7 @@
 import './Landtext.css';
 
-function Landtext(){
-    return(
+function Landtext() {
+    return (
         <div className=' hidden md:block sm:hidden'>
             <div class="banner-container ">
                 <h1 className="land-title d-blue">Lorem Ipsum lore ip</h1>
@@ -9,7 +9,7 @@ function Landtext(){
                 <div>
                     <button className="ban-button white">LEARN MORE</button>
                 </div>
-                
+
             </div>
         </div>
     )
