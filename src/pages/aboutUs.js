@@ -10,7 +10,7 @@ function AboutUs() {
             <div className="grid place-items-center">
                 <AboutUsTitle />
             </div>
-            <div className="flex justify-start my-[10%]">
+            <div className="   md:flex justify-start my-[10%]">
                 <AboutVideo />
                 <AboutTranscript />
             </div>
