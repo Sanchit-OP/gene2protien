@@ -52,6 +52,9 @@ export default function Contact(){
             <div class="input-box">
               <input type="email" placeholder="Enter your email" name='user_email'></input>
             </div>
+            <div class="input-box">
+              <input type="text" placeholder="Enter your institute" name='user_institute'></input>
+            </div>
             <div class="input-box message-box">
              <textarea name="message" placeholder='Enter Your Message' />
             </div>
