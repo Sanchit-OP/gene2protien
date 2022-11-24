@@ -1,13 +1,14 @@
 .banner-container{
-    background-image: url("../Ui/Pills_Bottle_v02_dull.png");
+    background-image: url("../Ui/homebg1.png");
     background-repeat: no-repeat;
-    background-position: 90%;
-    background-size: 70%;
-    margin: 130px;
-    margin-bottom: 250px;
+    background-position: 100%;
+    background-size: 45%;
+    margin: 100px;
+    margin-bottom: 300px;
     margin-left: 160px;
     width:auto;
-    height: 580px;
+    height: 480px;
+    opacity: 1;
 }
 
 .ban-button{
