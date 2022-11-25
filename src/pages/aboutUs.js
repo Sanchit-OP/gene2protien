@@ -7,6 +7,7 @@ import Top from "../Components/top";
 import Aboutcontent from "../Components/aboutcontent";
 import Labimg from "../Components/labimg";
 import Director from "../Components/director";
+import Directormobile from "../Components/directormobile";
 
 function AboutUs() {
     return (
@@ -18,6 +19,7 @@ function AboutUs() {
             </div> */}
             <Aboutcontent />
             <Director />
+            <Directormobile />
             <FooterOutside />
         </div>
     )
