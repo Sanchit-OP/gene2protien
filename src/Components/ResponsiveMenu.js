@@ -6,7 +6,7 @@ export default function ResponsiveMenu() {
   const [isNavOpen, setIsNavOpen] = useState(false); // initiate isNavOpen state with false
 
   return (
-    <div className="flex items-center justify-between  py-8">
+    <div className="flex items-center justify-between py-8 " >
       <a href="/">
         <img className="max-w-[17rem] opacity-100 duration-[600ms] m-3 hover:opacity-80" src={LogoG} alt="logo" />
       </a>
@@ -47,13 +47,13 @@ export default function ResponsiveMenu() {
                 <a href="/Products">Products</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
-                <a href="/Service">Service</a>
+                <a href="">Services</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
-                <a href="/Resource">Resource</a>
+                <a href="">Resources</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
-                <a href="/Carrer">Carrer</a>
+                <a href="">Career</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
                 <a href="/Contact">Contact</a>
@@ -70,13 +70,13 @@ export default function ResponsiveMenu() {
             <a className="mx-3 duration-100 hover:text-3xl" href="/Products">Products</a>
           </li>
           <li >
-            <a className="mx-3 duration-100 hover:text-3xl" href="/Service">Service</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="">Services</a>
           </li>
           <li >
-            <a className="mx-3 duration-100 hover:text-3xl" href="/Resource">Resource</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="">Resources</a>
           </li>
           <li >
-            <a className="mx-3 duration-100 hover:text-3xl" href="/Carrer">Carrer</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="">Career</a>
           </li>
           <li >
             <a className="mx-3 duration-100 hover:text-3xl" href="/Contact">Contact</a>
