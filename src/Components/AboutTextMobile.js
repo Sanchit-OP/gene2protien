@@ -1,5 +1,5 @@
-export default function AboutTextMobile(){
-    return(
+export default function AboutTextMobile() {
+    return (
         <div className=' m-5  mt-48 block md:hidden'>
             <h1 className=' text-3xl text-[#107586] font-poppins  font-semibold mb-10'>About Us</h1>
             <p className='text-sm font-semibold text-white text-justify ml-3 leading-[1.2rem] mb-20'>
