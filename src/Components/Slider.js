@@ -16,7 +16,7 @@ function Slider() {
         <div className="back my-10">
             <div className="ourproject">
                 <h1 className="headings p-2 mb:p-0">
-                    Our Mission
+                    Highlights
                 </h1>
                 <motion.div ref={carousel} className="carousel">
                     <motion.div

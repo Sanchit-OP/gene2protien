@@ -1,4 +1,4 @@
-.banner-container{
+.banner-container {
     background-image: url("../Ui/homebg1.png");
     background-repeat: no-repeat;
     background-position: 100%;
@@ -6,12 +6,12 @@
     margin: 100px;
     margin-bottom: 300px;
     margin-left: 160px;
-    width:auto;
+    width: auto;
     height: 480px;
     opacity: 1;
 }
 
-.ban-button{
+.ban-button {
     width: 150px;
     height: 40px;
     margin-top: 7em;
@@ -22,26 +22,41 @@
     font-size: 0.7em;
     font-weight: 600;
     letter-spacing: 2px;
-    
+
 }
+
 .d-green{
     color: #A6D8B5;
 }
 .d-blue{
+
     color: #107586;
 }
-.white{
-    color:white;
+
+.d-bblue {
+    background-color: #107586;
+    ;
 }
-.land-title{
+
+.d-purp {
+    background-color: #00008b;
+}
+
+.white {
+    color: white;
+}
+
+.land-title {
     margin-bottom: 0px;
     font-size: 5em;
 }
-.under-title{
+
+.under-title {
     margin-top: 0px;
     font-size: 14px;
 
 }
+
 /* #Bottle-style{
     position:relative;
     top: -200px;
