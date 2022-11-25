@@ -12,12 +12,15 @@ function WhatsNew() {
     return (
         <div>{bool &&
 
-            <div id="gayab" className="fixed shadow-2xl bottom-3 right-3 z-100 w-[20%] h-[25%] bg-white p-5 rounded-tl-[10%] opacity-[86%] d-bblue z-50">
-                <div className="relative left-[90%]" onClick={disappear}>
-                    <FaArrowDown />
+            <div id="gayab" className="fixed shadow-2xl bottom-3 right-3 z-100 bg-gradient-to-r w-[50%] h-[30%] from-blue-500 to-purple-500 p-5 rounded-tl-[10%] opacity-[86%] d-bblue z-50 md:w-[22%] md:h-[30%]">
+                <div className='flex justify-between'>
+                    
+                    <h5 className="font-semibold">What's New</h5>
+                    <div className=" " onClick={disappear}>
+                        <FaArrowDown />
+                    </div>
                 </div>
-                <h5 className="font-semibold">What's New</h5>
-                <p className="text-xs text-white">A better alternate to TRIzol!
+                <p className="text-[0.65rem] overflow-scroll text-white">A better alternate to TRIzol!
                     G2Pzol is a simple and easy, single-step isolation reagent to isolate total RNA from biological samples. A
                     single-step liquid phase separation results in the isolation of RNA from DNA, protein, polysaccharides, and
                     other molecules. RNA can then be isolated from the aqueous supernatant by alcohol/isopropanol precipitation.
