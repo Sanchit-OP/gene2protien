@@ -2,6 +2,7 @@ import ItemBar from "./ItemBar";
 import ItemBarHead from "./ItemBarHead";
 
 function ItemCombined() {
+
   return (
     <div
       className="grid gap-0 place-items-center pb-[10%]"
@@ -124,6 +125,7 @@ function ItemCombined() {
       />
     </div>
   );
+
 }
 
 export default ItemCombined;
