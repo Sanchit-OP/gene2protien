@@ -2,7 +2,7 @@ import interview from '../Ui/interview.mp4';
 function Directormobile() {
     return (
         <div className=' flex-col md:hidden '>
-            <video width="1200" height="800" autoPlay controls className='rounded-xl  py-10 ' >
+            <video width="1200" height="800"  controls className='rounded-xl  py-10 ' >
                 <source src={interview} type="video/mp4" />
             </video>
             <div className='leading-7 font-normal mx-10 white'>
