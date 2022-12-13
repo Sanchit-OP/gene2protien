@@ -3,8 +3,8 @@ import FooterSocial from './FooterSocial';
 
 function FooterRight(){
     var l1= ["PRODUCT", "Popular", "Trending", "Catalog", "Features"];
-    var l2= ["COMPANY", "Press Releases", "Mission", "Strategy", "Works"];
-    var l3= ["INFO", "Support", "Developers", "Service", "Get Started"];
+    var l2= ["COMPANY", "Press Releases", "Mission", ];
+    var l3= ["INFO", "Contact Us", "Carrer", "Distributor"];
     return(
         <div className="flex ml-48">
             <FooterList name={l1}/>
