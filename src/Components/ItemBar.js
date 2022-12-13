@@ -7,6 +7,7 @@ function ItemBar(props) {
             <h1 className=" col-span-5" >{props.title}</h1>
             <h1 className="font-[poppins] col-span-1" >{props.price}</h1>
             <a href={props.down} className=" text-center overflow-hidden border border-black col-span-2"><h1 className=" " >Download</h1></a>
+
         </div>
 
     );

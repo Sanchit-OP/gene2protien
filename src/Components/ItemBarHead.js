@@ -10,6 +10,7 @@ function ItemBarHead(props) {
             <h1 className="font-[poppins] text-xl font-semibold col-span-8" >{props.title}</h1>
             <h1 className="font-[poppins] text-xl font-semibold col-span-2 " >{props.qty}</h1>
             <h1 className="font-[poppins] text-xl font-semibold px-1" >Download</h1>
+
         </div>
 
     );
