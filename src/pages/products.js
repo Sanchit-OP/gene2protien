@@ -7,7 +7,7 @@ import Top from "../Components/top";
 function Product() {
     return (
         <div>
-            <Top color="white"/>
+            <Top />
             <ProductTitle />
             <ProductCombined />
             <FooterOutside />

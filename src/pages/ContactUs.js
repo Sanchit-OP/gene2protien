@@ -8,7 +8,7 @@ export default function ContactUs(){
     
     return (
         <div>
-        <Top color="white" />
+        <Top  />
         <Contact />
        
         <FooterOutside />

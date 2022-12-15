@@ -3,7 +3,7 @@ import ResponsiveMenu from './ResponsiveMenu';
 
 export default function Top(props){
     return(
-        <div>
+        <div style={{ backgroundColor: props.color }}>
             <ResponsiveMenu />
             <div className="hidden md:block" >
                 <div className="xl:mx-56 pt-10 mx-40 pb-4">
