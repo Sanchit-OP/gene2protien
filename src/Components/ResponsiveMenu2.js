@@ -1,8 +1,8 @@
 import React from "react";
 import { useState } from "react"; // import state
-import LogoG from '../Ui/g20.png';
+import LogoG from '../Ui/g20black.png';
 
-export default function ResponsiveMenu() {
+export default function ResponsiveMenu2() {
   const [isNavOpen, setIsNavOpen] = useState(false); // initiate isNavOpen state with false
 
   return (
@@ -64,7 +64,7 @@ export default function ResponsiveMenu() {
           </div>
         </section>
 
-        <ul className="DESKTOP-MENU hidden space-x-8 lg:flex text-2xl font-[500] text-white mx-20">
+        <ul className="DESKTOP-MENU hidden space-x-8 lg:flex text-2xl font-[500] text-black mx-20">
           <li >
             <a className="mx-3 duration-100 hover:text-3xl" href="/about">About</a>
           </li>

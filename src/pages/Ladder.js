@@ -3,12 +3,12 @@ import ItemCombinedLadder from "../Components/Category/ItemCombinedLaddersDNA&Ce
 import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzymes";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function Ladder() {
     return (
         <div>
-            <Top/>
+            <Top2 color="BABBB1" />
             <ItemTitle title="Ladders/Markers" />
             <ItemCombinedLadder />
             <FooterOutside />

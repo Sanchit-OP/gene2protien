@@ -3,12 +3,12 @@ import ItemCombinedInstrument from "../Components/Category/ItemCombinedInstrumen
 import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzymes";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function Instrument() {
     return (
         <div>
-            <Top/>
+            <Top2 color="#839CE3" />
             <ItemTitle title="Instruments" />
             <ItemCombinedInstrument />
             <FooterOutside />

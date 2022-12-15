@@ -3,12 +3,12 @@ import ItemCombinedModify from "../Components/Category/ItemCombinedModifyingEnzy
 import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzymes";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function Modify() {
     return (
         <div>
-            <Top/>
+            <Top2 color="#E4D28C"/>
             <ItemTitle title="Modifying Enzymes" />
             <ItemCombinedModify />
             <FooterOutside />
