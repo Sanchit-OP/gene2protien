@@ -12,7 +12,7 @@ import Directormobile from "../Components/directormobile";
 function AboutUs() {
     return (
         <div className="h-screen">
-            <Top color="white" />
+            <Top  />
             <Labimg />
             {/* <div className="grid place-items-center" style={{ backgroundColor: "white" }}>
                 <AboutUsTitle />

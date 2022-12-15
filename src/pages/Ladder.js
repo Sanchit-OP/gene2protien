@@ -1,18 +1,19 @@
 import React from "react";
+import ItemCombinedLadder from "../Components/Category/ItemCombinedLaddersDNA&Cells";
 import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzymes";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
 import Top from "../Components/top";
 
-function PCR() {
+function Ladder() {
     return (
         <div>
             <Top/>
-            <ItemTitle title="PCR Enzymes and Dyes" />
-            <ItemCombinedPCREnzymes />
+            <ItemTitle title="Ladders/Markers" />
+            <ItemCombinedLadder />
             <FooterOutside />
         </div>
     )
 }
 
-export default PCR
+export default Ladder;
