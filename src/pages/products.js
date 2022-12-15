@@ -2,12 +2,12 @@ import React from "react";
 import FooterOutside from "../Components/FooterOutside";
 import ProductCombined from "../Components/ProductCombined";
 import ProductTitle from "../Components/ProductTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function Product() {
     return (
         <div>
-            <Top />
+            <Top2 color="white" />
             <ProductTitle />
             <ProductCombined />
             <FooterOutside />

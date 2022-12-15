@@ -3,12 +3,12 @@ import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzyme
 import ItemCombinedPurify from "../Components/Category/ItemCombinedPurificationRange";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function Purification() {
     return (
         <div>
-            <Top/>
+            <Top2 color="#D6CA98"/>
             <ItemTitle title="Purification Products" />
             <ItemCombinedPurify />
             <FooterOutside />

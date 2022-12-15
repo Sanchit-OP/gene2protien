@@ -16,7 +16,7 @@ function ItemCombinedModify() {
         price="Price"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="DNA Polymerase I E. coli (Klenow)"
         catno="ME325"
         qty="100U"
@@ -25,7 +25,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="MMLV Reverse Transcriptase (Rnase H minus)"
         catno="ME0050"
         qty="5000U"
@@ -34,7 +34,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="T4 DNA Ligase"
         catno="ME319"
         qty="10000U"
@@ -43,7 +43,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="T4 Polynucleotide Kinase"
         catno="ME311"
         qty="250U"
@@ -52,7 +52,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="T4 RNA Ligase"
         catno="ME349"
         qty="250U"
@@ -61,7 +61,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="T7 RNA Polymerase"
         catno="ME355"
         qty="1000U"
@@ -70,7 +70,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="Thermolabile Alkaline Phosphatase"
         catno="ME365"
         qty="200U"
@@ -79,7 +79,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="Uracil-DNA Glycosylase (UDG)"
         catno="ME335"
         qty="200U"
@@ -88,7 +88,7 @@ function ItemCombinedModify() {
         down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
       />
       <ItemBar
-        color="#E4BA88"
+        color="#E4D28C"
         title="Rnase A"
         catno="ME375"
         qty="50mg"

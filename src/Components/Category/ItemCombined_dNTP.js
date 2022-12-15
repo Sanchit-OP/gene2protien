@@ -16,7 +16,7 @@ function ItemCombinedDNPT() {
         price="Price"
       />
       <ItemBar
-        color="#AD6BB2"
+        color="#ADB3BE"
         title="dNTP mix, 10mM of each"
         catno="N022"
         qty="1 ml"
@@ -25,7 +25,7 @@ function ItemCombinedDNPT() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#AD6BB2"
+        color="#ADB3BE"
         title="dNTP Set, 10mM of each"
         catno="N023"
         qty="1 ml"
@@ -34,7 +34,7 @@ function ItemCombinedDNPT() {
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
       <ItemBar
-        color="#AD6BB2"
+        color="#ADB3BE"
         title="dNTP mix, 100mM of each"
         catno="N027"
         qty="1 ml"
@@ -43,7 +43,7 @@ function ItemCombinedDNPT() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#AD6BB2"
+        color="#ADB3BE"
         title="dNTP set, 100 mM of each"
         catno="N028"
         qty="1 ml"

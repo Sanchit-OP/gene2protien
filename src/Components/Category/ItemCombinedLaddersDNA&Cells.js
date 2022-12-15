@@ -16,7 +16,7 @@ function ItemCombinedLadder() {
         price="Price"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="1 Kb DNA Ladder"
         catno="L11"
         qty="50ug"
@@ -25,7 +25,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="1 Kb DNA Ladder"
         catno="L12"
         qty="250ug"
@@ -34,7 +34,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="50 bp DNA Ladder"
         catno="L13"
         qty="50ug"
@@ -43,7 +43,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="50 bp DNA Ladder"
         catno="L14"
         qty="250ug"
@@ -52,7 +52,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="100 bp DNA Ladder"
         catno="L15"
         qty="50ug"
@@ -61,7 +61,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="100 bp DNA Ladder"
         catno="L16"
         qty="250ug"
@@ -70,7 +70,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="Lambda DNA/HindIII Ladder"
         catno="L01"
         qty="100ug"
@@ -79,7 +79,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="pBR322 Plasmid DNA"
         catno="P03"
         qty="50ug"
@@ -88,7 +88,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="pUC19 Plasmid DNA"
         catno="P05"
         qty="50ug"
@@ -97,7 +97,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1P8xxlUSHRqRiREK7Y3iOkQYwHjT1-KUQ/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="pUC57 Plasmid DNA"
         catno="P06"
         qty="1 ug"
@@ -106,7 +106,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1yDinW7nLa0vzlsdU21w1i2Sdm5UT_AQo/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="pcDNA3.1 Plasmid DNA"
         catno="P07"
         qty="1 ug"
@@ -115,7 +115,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/14GjV2H6Y-SyvrU9a4EBtp64ta_riFK60/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="pPIC9K Plasmid DNA"
         catno="P08"
         qty="1 ug"
@@ -124,7 +124,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="pBluescript  Plasmid DNA"
         catno="P09"
         qty="1 ug"
@@ -133,7 +133,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="Pet 21b Plasmid DNA"
         catno="P021"
         qty="1 ug"
@@ -142,7 +142,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="pET 28a plasmid DNA"
         catno="P028"
         qty="1 ug"
@@ -151,7 +151,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="DH5 alpha Agar Stab"
         catno="STR-001"
         qty="1"
@@ -160,7 +160,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="BL21 (DE3)  Agar Stab"
         catno="STR-002"
         qty="1"
@@ -169,7 +169,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="DH5α  Competent Cells (Set of 10 vials)"
         catno="CCELL-001"
         qty="1"
@@ -178,7 +178,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="BL21 (DE3) Competent Cells (Set of 10 vials)"
         catno="CCELL-002"
         qty="1"
@@ -187,7 +187,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="Broad Range MW Protein Marker Prestained"
         catno="MWM-010"
         qty="500 ul"
@@ -196,7 +196,7 @@ function ItemCombinedLadder() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#BB7EA7"
+        color="#BABBB1"
         title="Low to High  MW Protein Marker Prestained"
         catno="MWM-020"
         qty="500 ul"

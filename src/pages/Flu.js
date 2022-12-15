@@ -3,12 +3,12 @@ import ItemCombinedFlu from "../Components/Category/ItemCombinedFluorescentDyesA
 import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzymes";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function Flu() {
     return (
         <div>
-            <Top/>
+            <Top2 color="#688DFC" />
             <ItemTitle title="Fluorescent Dyes/Quencher" />
             <ItemCombinedFlu />
             <FooterOutside />

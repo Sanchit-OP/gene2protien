@@ -44,7 +44,8 @@ export default function Contact(){
           </div>
           <div class="right-side">
             <div class="topic-text">Send us a message</div>
-            <p>If you have any work from me or any types of queries related to our products, you can send me message from here. It's my pleasure to help you.</p>
+            <p>If you have any work from me or any types of queries
+               related to our products, you can send me message from here. It's my pleasure to help you.</p>
           <form ref={form} onSubmit={sendEmail}>
             <div class="input-box">
               <input type="text" placeholder="Enter your name" name='user_name'></input>

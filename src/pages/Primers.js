@@ -3,12 +3,12 @@ import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzyme
 import ItemCombinedPrimer from "../Components/Category/ItemCombinedPrimers";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function Primers() {
     return (
         <div>
-            <Top/>
+            <Top2 color="#9FACCA" />
             <ItemTitle title="Primers" />
             <ItemCombinedPrimer />
             <FooterOutside />

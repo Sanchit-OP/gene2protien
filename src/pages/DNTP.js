@@ -3,12 +3,12 @@ import ItemCombinedPCREnzymes from "../Components/Category/ItemCombinedPCREnzyme
 import ItemCombinedDNPT from "../Components/Category/ItemCombined_dNTP";
 import FooterOutside from "../Components/FooterOutside";
 import ItemTitle from "../Components/ItemTitle";
-import Top from "../Components/top";
+import Top2 from "../Components/top2";
 
 function DNTP() {
     return (
         <div>
-            <Top/>
+            <Top2 color="#ADB3BE" />
             <ItemTitle title="DNPTs" />
             <ItemCombinedDNPT />
             <FooterOutside />
