@@ -1,4 +1,6 @@
 import ItemBar from "../ItemBar";
+import ItemBar2 from "../ItemBar2";
+
 import ItemBarHead from "../ItemBarHead";
 
 function ItemCombinedDNPT() {
@@ -10,8 +12,8 @@ function ItemCombinedDNPT() {
     >
       <ItemBarHead
         color="#ffffff"
-        title="Name"
-        catno="Catalog#"
+        title="Product"
+        catno="Cat #"
         qty="Quantity"
         price="Price"
       />
@@ -22,9 +24,10 @@ function ItemCombinedDNPT() {
         qty="1 ml"
         price=" 1,000"
         view=""
-        down="https://drive.google.com/file/d/12vkFTUCssxOxpjsOE0nB1mEidUf_WSi0/view?usp=share_link"
+        down="https://drive.google.com/file/d/12vkFTUCssxOxpjsOE0nB1mEidUf_WSi0/view?usp=share_link
+        "
       />
-      <ItemBar
+      <ItemBar2
         color="#7da7d9"
         title="dNTP Set, 10mM of each"
         catno="N023"
@@ -40,9 +43,10 @@ function ItemCombinedDNPT() {
         qty="1 ml"
         price="2,500"
         view=""
-        down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
+        down="https://drive.google.com/file/d/12vkFTUCssxOxpjsOE0nB1mEidUf_WSi0/view?usp=share_link
+        "
       />
-      <ItemBar
+      <ItemBar2
         color="#7da7d9"
         title="dNTP set, 100 mM of each"
         catno="N028"

@@ -1,4 +1,5 @@
 import ItemBar from "../ItemBar";
+import ItemBar2 from "../ItemBar2";
 import ItemBarHead from "../ItemBarHead";
 
 function ItemCombinedLadder() {
@@ -10,8 +11,8 @@ function ItemCombinedLadder() {
     >
       <ItemBarHead
         color="#ffffff"
-        title="Name"
-        catno="Catalog"
+        title="Product"
+        catno="Cat #"
         qty="Quantity"
         price="Price"
       />
@@ -22,7 +23,8 @@ function ItemCombinedLadder() {
         qty="50ug"
         price=" 1,000"
         view="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/preview"
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/1M90CV3Lf9tXYMdQn-o0gkbFvFZV5eue3/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -31,7 +33,8 @@ function ItemCombinedLadder() {
         qty="250ug"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
+        down="https://drive.google.com/file/d/1M90CV3Lf9tXYMdQn-o0gkbFvFZV5eue3/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -40,7 +43,8 @@ function ItemCombinedLadder() {
         qty="50ug"
         price="2,500"
         view=""
-        down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
+        down="https://drive.google.com/file/d/1C1BpKzXOIC5sR3LiJP0YTMDY38Bd0fd3/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -49,7 +53,8 @@ function ItemCombinedLadder() {
         qty="250ug"
         price="7,000"
         view=""
-        down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
+        down="https://drive.google.com/file/d/1C1BpKzXOIC5sR3LiJP0YTMDY38Bd0fd3/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -58,7 +63,8 @@ function ItemCombinedLadder() {
         qty="50ug"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
+        down="https://drive.google.com/file/d/1BNJs6NvhtCzI3ovUQZJzf6bp60nVhkHS/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -67,7 +73,8 @@ function ItemCombinedLadder() {
         qty="250ug"
         price="9,000"
         view=""
-        down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
+        down="https://drive.google.com/file/d/1BNJs6NvhtCzI3ovUQZJzf6bp60nVhkHS/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -76,9 +83,10 @@ function ItemCombinedLadder() {
         qty="100ug"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
+        down="https://drive.google.com/file/d/1egvhepQu71AV-aOUYB4uV-mAh-Yc1Wd4/view?usp=share_link
+        "
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="pBR322 Plasmid DNA"
         catno="P03"
@@ -94,9 +102,10 @@ function ItemCombinedLadder() {
         qty="50ug"
         price="3,500"
         view=""
-        down="https://drive.google.com/file/d/1P8xxlUSHRqRiREK7Y3iOkQYwHjT1-KUQ/view"
+        down="https://drive.google.com/file/d/1C8bv-BgyoJVVbEMku7dU53AlouutUmmw/view?usp=share_link
+        "
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="pUC57 Plasmid DNA"
         catno="P06"
@@ -105,7 +114,7 @@ function ItemCombinedLadder() {
         view=""
         down="https://drive.google.com/file/d/1yDinW7nLa0vzlsdU21w1i2Sdm5UT_AQo/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="pcDNA3.1 Plasmid DNA"
         catno="P07"
@@ -114,7 +123,7 @@ function ItemCombinedLadder() {
         view=""
         down="https://drive.google.com/file/d/14GjV2H6Y-SyvrU9a4EBtp64ta_riFK60/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="pPIC9K Plasmid DNA"
         catno="P08"
@@ -123,7 +132,7 @@ function ItemCombinedLadder() {
         view=""
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="pBluescript  Plasmid DNA"
         catno="P09"
@@ -132,7 +141,7 @@ function ItemCombinedLadder() {
         view=""
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="Pet 21b Plasmid DNA"
         catno="P021"
@@ -141,7 +150,7 @@ function ItemCombinedLadder() {
         view=""
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="pET 28a plasmid DNA"
         catno="P028"
@@ -150,7 +159,7 @@ function ItemCombinedLadder() {
         view=""
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="DH5 alpha Agar Stab"
         catno="STR-001"
@@ -159,7 +168,7 @@ function ItemCombinedLadder() {
         view=""
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#82ca9c"
         title="BL21 (DE3)  Agar Stab"
         catno="STR-002"
@@ -175,7 +184,8 @@ function ItemCombinedLadder() {
         qty="1"
         price="500"
         view=""
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/1uMF1pI1aZdxf920ZFCcCREE4sHhulxJ3/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -184,7 +194,8 @@ function ItemCombinedLadder() {
         qty="1"
         price="500"
         view=""
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/1QQgUvBhdRRgS2AHx-tPCBfEPK17ErnT6/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -193,7 +204,8 @@ function ItemCombinedLadder() {
         qty="500 ul"
         price="500"
         view=""
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/1NDtsAiXgeYP5KD1fj-cBGj4qXJ7YDKrg/view?usp=share_link
+        "
       />
       <ItemBar
         color="#82ca9c"
@@ -202,7 +214,8 @@ function ItemCombinedLadder() {
         qty="500 ul"
         price="500"
         view=""
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/1fcqdj-kuJcXx-GMUlc-cExrmPAocmTCb/view?usp=share_link
+        "
       />
     </div>
   );

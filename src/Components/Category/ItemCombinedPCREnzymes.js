@@ -10,7 +10,7 @@ function ItemCombinedPCREnzymes() {
     >
       <ItemBarHead
         color="#ffffff"
-        title="Name"
+        title="Product"
         catno="Cat #"
         qty="Quantity"
         price="Price"
@@ -22,7 +22,8 @@ function ItemCombinedPCREnzymes() {
         qty="200U"
         price=" 1,000"
         view="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/preview"
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/1P61160JBLtRYI8aCrwlCwnAkK0Ayv0iA/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -31,7 +32,8 @@ function ItemCombinedPCREnzymes() {
         qty="1000U"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
+        down="https://drive.google.com/file/d/1VELKibPG9enOU1QzwlMUH6T4-yZhRB_E/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -40,7 +42,8 @@ function ItemCombinedPCREnzymes() {
         qty="250U"
         price="2,500"
         view=""
-        down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
+        down="https://drive.google.com/file/d/1GojG0ebdB7Xcf_CTuM3jcDLP7AyN0K-B/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -49,7 +52,8 @@ function ItemCombinedPCREnzymes() {
         qty="1000U"
         price="7,000"
         view=""
-        down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
+        down="https://drive.google.com/file/d/16SKhvRMRybbWXOoV9CwxF2aQYBNG2tRa/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -58,7 +62,8 @@ function ItemCombinedPCREnzymes() {
         qty="1 ml"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
+        down="https://drive.google.com/file/d/1lxvfvE6juXqafeH-8T0ZdJpeDZV1kjet/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -67,7 +72,8 @@ function ItemCombinedPCREnzymes() {
         qty="1 ml x4"
         price="9,000"
         view=""
-        down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
+        down="https://drive.google.com/file/d/1RqS3h2ELq-MaHDfhc_yrOQecB3nlbLtc/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -76,7 +82,8 @@ function ItemCombinedPCREnzymes() {
         qty="1 ml"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
+        down="https://drive.google.com/file/d/1CNaOuoX3Qkqt60BmGeoNtp3mfRgCt4T-/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -85,7 +92,8 @@ function ItemCombinedPCREnzymes() {
         qty="1 ml x4"
         price="9,000"
         view=""
-        down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
+        down="https://drive.google.com/file/d/1YuFoxMFxkfWVnk1uCDA0oOrfdy7kfqWu/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -94,7 +102,8 @@ function ItemCombinedPCREnzymes() {
         qty="200U"
         price="3,500"
         view=""
-        down="https://drive.google.com/file/d/1P8xxlUSHRqRiREK7Y3iOkQYwHjT1-KUQ/view"
+        down="https://drive.google.com/file/d/1q5dP79fQRTwXUYIGzxwaYhFxi4vhZ_jl/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -103,7 +112,8 @@ function ItemCombinedPCREnzymes() {
         qty="200U"
         price="10,000"
         view=""
-        down="https://drive.google.com/file/d/1yDinW7nLa0vzlsdU21w1i2Sdm5UT_AQo/view"
+        down="https://drive.google.com/file/d/1auwpyszUE5Im-w9syN_rt6oqpMd_7iMY/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -112,7 +122,8 @@ function ItemCombinedPCREnzymes() {
         qty="500 µl"
         price="5,000"
         view=""
-        down="https://drive.google.com/file/d/14GjV2H6Y-SyvrU9a4EBtp64ta_riFK60/view"
+        down="https://drive.google.com/file/d/1vB3ra7CmTXWg1s-h0i0wBZVmmhH85jl4/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f69679"
@@ -121,7 +132,8 @@ function ItemCombinedPCREnzymes() {
         qty="1 ml"
         price="500"
         view=""
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/1PH3cSZkvG_y5p-pLjboAqQPhkKyzFvf0/view?usp=share_link
+        "
       />
     </div>
   );

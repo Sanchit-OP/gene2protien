@@ -1,4 +1,4 @@
-import ItemBar from "../ItemBar";
+import ItemBar2 from "../ItemBar2";
 import ItemBarHead from "../ItemBarHead";
 
 function ItemCombinedInstrument() {
@@ -10,12 +10,12 @@ function ItemCombinedInstrument() {
     >
       <ItemBarHead
         color="#ffffff"
-        title="Name"
-        catno="Catalog"
+        title="Product"
+        catno="Cat #"
         qty="Quantity"
         price="Price"
       />
-      <ItemBar
+      <ItemBar2
         color="#bc8cbf"
         title="Submarine Gel electrophoresis System "
         catno="GEL01-01"
@@ -24,7 +24,7 @@ function ItemCombinedInstrument() {
         view="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/preview"
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#bc8cbf"
         title="Power supply"
         catno="GEL02-01"
@@ -33,7 +33,7 @@ function ItemCombinedInstrument() {
         view=""
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#bc8cbf"
         title="PRO-Spin 6000 rpm Microcentrifuge with 8 x 2ml/1.5ml vial rotor  and 2 x PCR Strip rotor"
         catno="G2P-PRO0806"

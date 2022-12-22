@@ -1,4 +1,6 @@
 import ItemBar from "../ItemBar";
+import ItemBar2 from "../ItemBar2";
+
 import ItemBarHead from "../ItemBarHead";
 
 function ItemCombinedFlu() {
@@ -10,8 +12,8 @@ function ItemCombinedFlu() {
     >
       <ItemBarHead
         color="#ffffff"
-        title="Name"
-        catno="Catalog"
+        title="Product"
+        catno="Cat #"
         qty="Quantity"
         price="Price"
       />
@@ -22,7 +24,8 @@ function ItemCombinedFlu() {
         qty="1 mg"
         price=" 1,000"
         view="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/preview"
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        down="https://drive.google.com/file/d/12OCMp14UpGciu3vA_XAbhU_jmRtNENMg/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f49ac1"
@@ -31,7 +34,8 @@ function ItemCombinedFlu() {
         qty=" 5 mg"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
+        down="https://drive.google.com/file/d/12OCMp14UpGciu3vA_XAbhU_jmRtNENMg/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f49ac1"
@@ -40,7 +44,8 @@ function ItemCombinedFlu() {
         qty="1 mg"
         price="2,500"
         view=""
-        down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
+        down="https://drive.google.com/file/d/1L6Xyl5wYiP4bZX9OiSI59nZ2Wy-69iOl/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f49ac1"
@@ -49,7 +54,8 @@ function ItemCombinedFlu() {
         qty=" 5 mg"
         price="7,000"
         view=""
-        down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
+        down="https://drive.google.com/file/d/1L6Xyl5wYiP4bZX9OiSI59nZ2Wy-69iOl/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f49ac1"
@@ -58,7 +64,8 @@ function ItemCombinedFlu() {
         qty="1 mg"
         price="3,000"
         view=""
-        down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
+        down="https://drive.google.com/file/d/1Egw2_HekciGf3HWCnqgo6jbryrPzI35H/view?usp=share_link
+        "
       />
       <ItemBar
         color="#f49ac1"
@@ -67,9 +74,10 @@ function ItemCombinedFlu() {
         qty=" 5 mg"
         price="9,000"
         view=""
-        down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
+        down="https://drive.google.com/file/d/1Egw2_HekciGf3HWCnqgo6jbryrPzI35H/view?usp=share_link
+        "
       />
-      <ItemBar
+      <ItemBar2
         color="#f49ac1"
         title="FAM-azide"
         catno="FLUOR-040-01"
@@ -78,7 +86,7 @@ function ItemCombinedFlu() {
         view=""
         down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#f49ac1"
         title="FAM-azide"
         catno="FLUOR-040-05"
@@ -94,7 +102,8 @@ function ItemCombinedFlu() {
         qty="100 mg"
         price="3,500"
         view=""
-        down="https://drive.google.com/file/d/1P8xxlUSHRqRiREK7Y3iOkQYwHjT1-KUQ/view"
+        down="https://drive.google.com/file/d/1AgsUnZDSOYJENACZi77S4JrbphT2SCax/view?usp=share_link
+        "
       />
     </div>
   );

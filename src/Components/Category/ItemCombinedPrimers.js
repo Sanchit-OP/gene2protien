@@ -1,4 +1,4 @@
-import ItemBar from "../ItemBar";
+import ItemBar2 from "../ItemBar2";
 import ItemBarHead from "../ItemBarHead";
 
 function ItemCombinedPrimer() {
@@ -10,12 +10,12 @@ function ItemCombinedPrimer() {
     >
       <ItemBarHead
         color="#ffffff"
-        title="Name"
-        catno="Catalog"
+        title="Product"
+        catno="Cat #"
         qty="Quantity"
         price="Price"
       />
-      <ItemBar
+      <ItemBar2
         color="#798cc9"
         title="M13 Universal Primer Forward"
         catno="PR001"
@@ -24,7 +24,7 @@ function ItemCombinedPrimer() {
         view="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/preview"
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#798cc9"
         title="M13 Universal Primer Reverse"
         catno="PR002"
@@ -33,7 +33,7 @@ function ItemCombinedPrimer() {
         view=""
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#798cc9"
         title="T7 promoter primer Forward"
         catno="PR003"
@@ -42,7 +42,7 @@ function ItemCombinedPrimer() {
         view=""
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#798cc9"
         title="T7 terminator primer Reverse"
         catno="PR004"
@@ -51,7 +51,7 @@ function ItemCombinedPrimer() {
         view=""
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#798cc9"
         title="Oligo (dT)21"
         catno="PR005"
@@ -60,7 +60,7 @@ function ItemCombinedPrimer() {
         view=""
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
-      <ItemBar
+      <ItemBar2
         color="#798cc9"
         title="Random Nonamer"
         catno="PR006"
