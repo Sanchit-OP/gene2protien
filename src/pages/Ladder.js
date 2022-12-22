@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function Ladder() {
     return (
         <div>
-            <Top2 color="BABBB1" />
+            <Top2 color="#82ca9c" />
             <ItemTitle title="Ladders/Markers" />
             <ItemCombinedLadder />
             <FooterOutside />

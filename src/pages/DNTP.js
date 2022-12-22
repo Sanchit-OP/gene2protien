@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function DNTP() {
     return (
         <div>
-            <Top2 color="#ADB3BE" />
+            <Top2 color="#7da7d9" />
             <ItemTitle title="DNPTs" />
             <ItemCombinedDNPT />
             <FooterOutside />

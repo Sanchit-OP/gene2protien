@@ -31,7 +31,7 @@ function NoSlider() {
       </div>
       <div className="">
           <p className=" hidden font-semibold text-justify white md:block">
-            The GreenRTM Nucleic Acid staining dye has been developed in a joint
+            The GreenR<sup>TM</sup> Nucleic Acid staining dye has been developed in a joint
             collaboration with Biotech Desk Pvt. Ltd., Hyderabad and CSIR-CDRI,
             Lucknow. This dye is used in place of Ethidium bromide which
             intercalates between DNA strands and fluoresces when UV light is

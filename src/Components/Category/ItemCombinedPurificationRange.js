@@ -16,7 +16,7 @@ function ItemCombinedPurify() {
         price="Price"
       />
       <ItemBar
-        color="#D6CA98"
+        color="#fff799"
         title="Ni-NTA Resin Slurry (Affinity Purification of Proteins with 6X His tag)"
         catno="PUR10-25"
         qty="25 ml  "
@@ -25,7 +25,7 @@ function ItemCombinedPurify() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#D6CA98"
+        color="#fff799"
         title="G2P SpinClean Plasmid prep kit"
         catno="PUR11-50"
         qty="50 preps"
@@ -34,7 +34,7 @@ function ItemCombinedPurify() {
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
       <ItemBar
-        color="#D6CA98"
+        color="#fff799"
         title="G2P CuttingEdge Gel Extraction Kit"
         catno="​PUR12-50 "
         qty="50 preps"
@@ -43,7 +43,7 @@ function ItemCombinedPurify() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#D6CA98"
+        color="#fff799"
         title="G2P SpinClean PCR Cleanup Kit"
         catno="PUR13-50"
         qty="50 preps"
@@ -52,7 +52,7 @@ function ItemCombinedPurify() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#D6CA98"
+        color="#fff799"
         title="G2P PCR Cleanup & Gel Extraction Combo Kit"
         catno="​PUR14-50 "
         qty="50 preps"
@@ -61,7 +61,7 @@ function ItemCombinedPurify() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#D6CA98"
+        color="#fff799"
         title="G2P Blood DNA Purification Kit"
         catno="​PUR15-50 "
         qty="50 preps"
@@ -70,7 +70,7 @@ function ItemCombinedPurify() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#D6CA98"
+        color="#fff799"
         title="G2P Plant DNA Purification Kit (Spin /column based)"
         catno="​PUR16-50 "
         qty="50 preps"

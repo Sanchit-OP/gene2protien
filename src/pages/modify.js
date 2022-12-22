@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function Modify() {
     return (
         <div>
-            <Top2 color="#E4D28C"/>
+            <Top2 color="#fdc689"/>
             <ItemTitle title="Modifying Enzymes" />
             <ItemCombinedModify />
             <FooterOutside />
