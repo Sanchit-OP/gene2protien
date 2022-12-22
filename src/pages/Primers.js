@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function Primers() {
     return (
         <div>
-            <Top2 color="#9FACCA" />
+            <Top2 color="#798cc9" />
             <ItemTitle title="Primers" />
             <ItemCombinedPrimer />
             <FooterOutside />

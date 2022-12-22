@@ -11,21 +11,21 @@ function ItemCombinedDNPT() {
       <ItemBarHead
         color="#ffffff"
         title="Name"
-        catno="Catalog"
+        catno="Catalog#"
         qty="Quantity"
         price="Price"
       />
       <ItemBar
-        color="#ADB3BE"
+        color="#7da7d9"
         title="dNTP mix, 10mM of each"
         catno="N022"
         qty="1 ml"
         price=" 1,000"
-        view="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/preview"
-        down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
+        view=""
+        down="https://drive.google.com/file/d/12vkFTUCssxOxpjsOE0nB1mEidUf_WSi0/view?usp=share_link"
       />
       <ItemBar
-        color="#ADB3BE"
+        color="#7da7d9"
         title="dNTP Set, 10mM of each"
         catno="N023"
         qty="1 ml"
@@ -34,7 +34,7 @@ function ItemCombinedDNPT() {
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
       <ItemBar
-        color="#ADB3BE"
+        color="#7da7d9"
         title="dNTP mix, 100mM of each"
         catno="N027"
         qty="1 ml"
@@ -43,7 +43,7 @@ function ItemCombinedDNPT() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#ADB3BE"
+        color="#7da7d9"
         title="dNTP set, 100 mM of each"
         catno="N028"
         qty="1 ml"

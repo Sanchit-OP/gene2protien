@@ -7,7 +7,7 @@ import Top2 from "../Components/top2";
 function Restriction() {
     return (
         <div>
-            <Top2 color="#F1D97F"/>
+            <Top2 color="#f9ad81"/>
             <ItemTitle title="Restriction enzymes" />
             <ItemCombinedRestriction />
             <FooterOutside />

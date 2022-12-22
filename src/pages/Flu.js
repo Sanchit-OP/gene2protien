@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function Flu() {
     return (
         <div>
-            <Top2 color="#688DFC" />
+            <Top2 color="#f49ac1" />
             <ItemTitle title="Fluorescent Dyes/Quencher" />
             <ItemCombinedFlu />
             <FooterOutside />

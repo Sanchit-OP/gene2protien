@@ -16,7 +16,7 @@ function ItemCombinedFlu() {
         price="Price"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="Cy3-Azide"
         catno="FLUOR-010-01"
         qty="1 mg"
@@ -25,7 +25,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="Cy3-Azide"
         catno="FLUOR-010-05"
         qty=" 5 mg"
@@ -34,7 +34,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/1VdL2kzU3BsggrScsj39VN-95jY00rDHj/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="Cy5-Azide"
         catno="FLUOR-020-01"
         qty="1 mg"
@@ -43,7 +43,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="Cy5-Azide"
         catno="FLUOR-020-05"
         qty=" 5 mg"
@@ -52,7 +52,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/10y_AvBZDP4jgEPBvsS4e2qH1olETKMDq/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="CalFluor-azide"
         catno="FLUOR-030-01"
         qty="1 mg"
@@ -61,7 +61,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="CalFluor-azide"
         catno="FLUOR-030-05"
         qty=" 5 mg"
@@ -70,7 +70,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="FAM-azide"
         catno="FLUOR-040-01"
         qty="1 mg"
@@ -79,7 +79,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="FAM-azide"
         catno="FLUOR-040-05"
         qty="5 mg"
@@ -88,7 +88,7 @@ function ItemCombinedFlu() {
         down="https://drive.google.com/file/d/1AuBKoqBKLrBm5RIcsIlqDT-BCibkyByA/view"
       />
       <ItemBar
-        color="#688DFC"
+        color="#f49ac1"
         title="UniQTM Universal Quencher"
         catno="FLUOR-007-100"
         qty="100 mg"

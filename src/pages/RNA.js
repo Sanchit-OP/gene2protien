@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function RNA() {
     return (
         <div>
-            <Top2 color="#C8C2A5" />
+            <Top2 color="#c4df9b" />
             <ItemTitle title="RNA Range" />
             <ItemCombinedRNA />
             <FooterOutside />

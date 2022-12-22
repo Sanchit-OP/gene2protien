@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function Buffers() {
     return (
         <div>
-            <Top2 color="#91A4D7" />
+            <Top2 color="#9873bf" />
             <ItemTitle title="Buffers" />
             <ItemCombinedBuffer/>
             <FooterOutside />

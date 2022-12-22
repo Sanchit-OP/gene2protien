@@ -7,7 +7,7 @@ import Top2 from "../Components/top2";
 function PCR() {
     return (
         <div>
-            <Top2 color="#FFE173" />
+            <Top2 color="#f69679" />
             <ItemTitle title="PCR Enzymes and Dyes" />
             <ItemCombinedPCREnzymes />
             <FooterOutside />

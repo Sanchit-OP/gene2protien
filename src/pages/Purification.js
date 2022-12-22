@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function Purification() {
     return (
         <div>
-            <Top2 color="#D6CA98"/>
+            <Top2 color="#fff799"/>
             <ItemTitle title="Purification Products" />
             <ItemCombinedPurify />
             <FooterOutside />

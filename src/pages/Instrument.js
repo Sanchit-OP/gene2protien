@@ -8,7 +8,7 @@ import Top2 from "../Components/top2";
 function Instrument() {
     return (
         <div>
-            <Top2 color="#839CE3" />
+            <Top2 color="#bc8cbf" />
             <ItemTitle title="Instruments" />
             <ItemCombinedInstrument />
             <FooterOutside />
