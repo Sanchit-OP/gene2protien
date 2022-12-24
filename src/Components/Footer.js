@@ -1,11 +1,11 @@
-import './Footer.css';
+
 import FooterLogo from './FooterLogo';
 import FooterRight from './FooterRight';
 import FooterSocial from './FooterSocial';
 
 function Footer(){
     return(
-        <div className="footer-container">
+        <div className="p-12 bg-white flex flex-row justify-between mb-0">
              <div className="foot-logo">
                 <FooterLogo />
             </div>
