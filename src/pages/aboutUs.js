@@ -7,17 +7,20 @@ import Top from "../Components/top";
 import Aboutcontent from "../Components/aboutcontent";
 import Labimg from "../Components/labimg";
 import Director from "../Components/director";
+import Directormobile from "../Components/directormobile";
+import Top1 from "../Components/top1";
 
 function AboutUs() {
     return (
         <div className="h-screen">
-            <Top color="white" />
+            <Top1  />
             <Labimg />
             {/* <div className="grid place-items-center" style={{ backgroundColor: "white" }}>
                 <AboutUsTitle />
             </div> */}
             <Aboutcontent />
             <Director />
+            <Directormobile />
             <FooterOutside />
         </div>
     )

@@ -3,14 +3,12 @@ import ResponsiveMenu from './ResponsiveMenu';
 
 export default function Top(props){
     return(
-        <div>
+        <div style={{ backgroundColor: props.color }}>
             <ResponsiveMenu />
-            <div className="hidden md:flex text-3xl font-semibold justify-around" style={{ backgroundColor: props.color }}>
-                <div className="flex justify-evenly">
-                    <div className="mx-[8%] d-blue font-bold">HAMARA</div>
-                    <div className="mx-[8%] d-blue font-bold">VIGYAN</div>
-                    <div className="mx-[8%] d-blue font-bold">HAMARA </div>
-                    <div className="mx-[8%] d-blue font-bold">SWABHIMAN</div>        </div>
+            <div className="hidden md:block" >
+                <div className="xl:mx-56 pt-10 mx-40 pb-4">
+                    <div className="font-bold text-5xl  d-blue">Hamara Vigyan Hamara Swabhiman</div>
+                </div>
             </div>
         </div>
     );

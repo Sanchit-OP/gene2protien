@@ -1,5 +1,6 @@
 {
   "name": "g2p_website",
+  "homepage": "http://g2p.co.in/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
