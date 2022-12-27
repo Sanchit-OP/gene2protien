@@ -161,7 +161,7 @@ function ItemCombinedLadder() {
       />
       <ItemBar2
         color="#82ca9c"
-        title="DH5 alpha Agar Stab"
+        title="DH5α Agar Stab"
         catno="STR-001"
         qty="1"
         price="500"
