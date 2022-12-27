@@ -1,4 +1,5 @@
 import ItemBar from "../ItemBar";
+import ItemBar3 from "../itembar/ItemBar3";
 import ItemBarHead from "../ItemBarHead";
 
 function ItemCombinedPCREnzymes() {
@@ -55,7 +56,7 @@ function ItemCombinedPCREnzymes() {
         down="https://drive.google.com/file/d/16SKhvRMRybbWXOoV9CwxF2aQYBNG2tRa/view?usp=share_link
         "
       />
-      <ItemBar
+      <ItemBar3
         color="#f69679"
         title="MINT-OTM Precision PCR Master Mix 2X"
         catno="PCR005"
@@ -65,7 +66,7 @@ function ItemCombinedPCREnzymes() {
         down="https://drive.google.com/file/d/1lxvfvE6juXqafeH-8T0ZdJpeDZV1kjet/view?usp=share_link
         "
       />
-      <ItemBar
+      <ItemBar3
         color="#f69679"
         title="MINT-OTM Precision PCR Master Mix 2X"
         catno="PCR006"

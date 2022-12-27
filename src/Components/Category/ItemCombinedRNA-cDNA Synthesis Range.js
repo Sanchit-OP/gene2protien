@@ -1,5 +1,8 @@
 import ItemBar from "../ItemBar";
-import ItemBar2 from "../ItemBar2";
+import ItemBar4 from "../itembar/ItemBar4";
+import ItemBar5 from "../itembar/ItemBar5";
+import ItemBar6 from "../itembar/ItemBar6";
+
 import ItemBarHead from "../ItemBarHead";
 
 function ItemCombinedRNA() {
@@ -45,7 +48,7 @@ function ItemCombinedRNA() {
         down="https://drive.google.com/file/d/1Qro9R-UC-isUfcX6iCotFvIdsLiD6tzB/view?usp=share_link
         "
       />
-      <ItemBar
+      <ItemBar4
         color="#c4df9b"
         title="Compli-ScriptTM 1st strand cDNA synthesis Kit"
         catno="RNA005-50"
@@ -55,7 +58,7 @@ function ItemCombinedRNA() {
         down="https://drive.google.com/file/d/1GRhxCQZwJM9BE7aq-V873oHJD1U4wVXy/view?usp=share_link
         "
       />
-      <ItemBar2
+      <ItemBar4
         color="#c4df9b"
         title="Compli-ScriptTM 1st strand cDNA synthesis Kit"
         catno="RNA005-100"
@@ -64,7 +67,7 @@ function ItemCombinedRNA() {
         view=""
         down="https://drive.google.com/file/d/1G9zYWrKII6Lv9Sam4_51w4d0ne9XfUnS/view"
       />
-      <ItemBar
+      <ItemBar5
         color="#c4df9b"
         title="Compli-AmpTM  High fidelity Two step RT-PCR Kit"
         catno="RNA007-50"
@@ -74,7 +77,7 @@ function ItemCombinedRNA() {
         down="https://drive.google.com/file/d/1Hy0RaTII9t2V83IiotNmkKph_EXfJakS/view?usp=share_link
         "
       />
-      <ItemBar
+      <ItemBar5
         color="#c4df9b"
         title="Compli-AmpTM  High fidelity Two step RT-PCR Kit"
         catno="RNA007-100"
@@ -84,7 +87,7 @@ function ItemCombinedRNA() {
         down="https://drive.google.com/file/d/130djPRFrjtkNsgzJkbgfihtH0kIHvRGV/view?usp=share_link
         "
       />
-      <ItemBar
+      <ItemBar6
         color="#c4df9b"
         title="Compli-AmpTM One-Step RT-PCR Kit"
         catno="RNA009-50"
@@ -94,7 +97,7 @@ function ItemCombinedRNA() {
         down="https://docs.google.com/document/d/1CadiA4xaZu4Qt3lnfDhBxb5Es8joX1pI/edit?usp=share_link&ouid=113248020034958671231&rtpof=true&sd=true
         "
       />
-      <ItemBar
+      <ItemBar6
         color="#c4df9b"
         title="Compli-AmpTM One-Step RT-PCR Kit"
         catno="RNA009-100"
