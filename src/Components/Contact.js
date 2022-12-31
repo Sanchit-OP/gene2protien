@@ -53,9 +53,12 @@ export default function Contact() {
               <div class="topic">Email</div>
               <div class="text-one"></div>
               <div class="text-two">
-                Customer support: jhansi@genetoprotein.com
-                Technical Support: techsupport@genetoprotein.com
-                Sales Support: sales@genetoprotein.com
+                Customer support: jhansi@genetoprotein.com</div>
+                <div class="text-two">
+                Tech-Support: techsupport@genetoprotein.com</div>
+                <div class="text-two">
+                Sales Support: sales@genetoprotein.com</div>
+                <div class="text-two">
                 general inquires: info@genetoprotein.com
               </div>
             </div>
