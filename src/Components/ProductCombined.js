@@ -2,7 +2,7 @@ import ProductBar from "./ProductBar";
 
 function ProductCombined() {
     return (
-        <div className="grid place-items-center  pb-[10%]" style={{ backgroundColor: "white" }}>
+        <div className="grid px-20 place-items-center  pb-[10%]" style={{ backgroundColor: "white" }}>
             <ProductBar color="#f69679" page="/products/pcr"  title="PCR Enzymes and Dyes" />
             <ProductBar color="#f9ad81" page="/products/restriction"  title="Restriction Enzymes" />
             <ProductBar color="#fdc689" page="/products/modifying"  title="Modifying Enzymes" />

@@ -6,7 +6,7 @@ export default function Aboutcontent() {
       
     <div className="px-4 md:px-40 leading-15 md:font-medium text-sm md:text-md md:p-[5em] flex justify-around  text-justify" style={{ backgroundColor: "white" }}>
       
-      <div className="font-bold pd-10 text-6xl mx-20"> 
+      <div className="font-bold text-[#288c4f] text-6xl mx-20"> 
         ABOUT US
       </div>
       <div className="text-base mx-10">

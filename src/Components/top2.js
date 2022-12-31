@@ -7,7 +7,7 @@ export default function Top2(props){
             <ResponsiveMenu2 />
             <div className="hidden items-center md:block" >
                 <div className="xl:mx-56 pt-10 items-center mx-40 pb-4">
-                    <div className="font-bold text-5xl text-center black">Hamara Vigyan Hamara Swabhiman</div>
+                    <div className="pb-2 font-bold text-5xl text-center black">"Hamara Vigyan Hamara Swabhiman"</div>
                 </div>
             </div>
         </div>

@@ -17,6 +17,7 @@ export default function Contact(){
         });
     };
     return(
+      <div className='bg-[#7cc576] p-1'>
         <div class="container mx-[7.5%] my-[9%]">
         <div class="content">
           <div class="left-side">
@@ -65,6 +66,7 @@ export default function Contact(){
           </form>
             </div>
         </div>
+      </div>
       </div>
     );
 
