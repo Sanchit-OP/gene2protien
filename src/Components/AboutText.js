@@ -4,11 +4,11 @@ import { FaArrowDown } from "react-icons/fa";
 function AboutText() {
   return (
     <div className=" m-36  mt-30 hidden md:block">
-      <h1 className=" text-6xl font-semibold text-[#107586] font-[poppins]">
+      <h1 className=" text-6xl font-semibold text-[#288c4f] font-[poppins]">
         What's New
       </h1>
       <br/>
-      <div className=" text-5xl font-medium text-[#107586] mx-10">
+      <div className=" text-5xl font-medium text-[#288c4f] mx-10">
         G2Pzol
       </div>
       <div className="m-16  flex justify-evenly ">

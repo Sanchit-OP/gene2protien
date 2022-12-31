@@ -1,7 +1,7 @@
 import interview from '../Ui/interview.mp4';
 function Director() {
     return (
-        <div className=' hidden md:flex p-20'>
+        <div className=' bg-[#7cc576] hidden md:flex p-20'>
             <video width="600" height="650" controls className='rounded-xl mx-10 shadow-2xl ' >
                 <source src={interview} type="video/mp4" />
             </video>

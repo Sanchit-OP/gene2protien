@@ -27,6 +27,7 @@ import PolyCl from './Components/services/Antibody/polycl';
 import MonoCl from './Components/services/Antibody/monocl';
 import Phospho from './Components/services/Antibody/phospho';
 import Other from './Components/services/Antibody/other';
+import Career from './pages/Career';
 
 function App() {
   return (
@@ -60,6 +61,7 @@ function App() {
       <Route path="/Services/Custom_AntiBody/MonoCl" element={<MonoCl />} />
       <Route path="/Services/Custom_AntiBody/Phospho" element={<Phospho />} />
       <Route path="/Services/Custom_AntiBody/Other" element={<Other />} />
+      <Route path="/Career" element={<Career />} />
     </Routes>
   );
 }

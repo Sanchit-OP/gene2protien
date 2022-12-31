@@ -2,6 +2,8 @@ import ItemBar from "../ItemBar";
 import ItemBar4 from "../itembar/ItemBar4";
 import ItemBar5 from "../itembar/ItemBar5";
 import ItemBar6 from "../itembar/ItemBar6";
+import ItemBar7 from "../itembar/ItemBar7";
+
 
 import ItemBarHead from "../ItemBarHead";
 
@@ -18,7 +20,7 @@ function ItemCombinedRNA() {
         qty="Quantity"
         price="Price"
       />
-      <ItemBar
+      <ItemBar7
         color="#c4df9b"
         title="G2P-ZOLTM"
         catno="RNA001"
@@ -26,6 +28,17 @@ function ItemCombinedRNA() {
         price=" 1,000"
         view="https://drive.google.com/file/d/1Py-7eKDfQuQZhj6bYtql3afiIwSheZ-Z/preview"
         down="https://drive.google.com/file/d/16bLGZ4Zqi_-rioIMnXKi2mRc1IdtHmx9/view?usp=share_link
+        "
+      />
+      
+      <ItemBar
+        color="#c4df9b"
+        title="RNA Vanish (Equivalent to RNA Zap)"
+        catno="RNA002"
+        qty="100 ml"
+        price="2,500"
+        view=""
+        down="https://drive.google.com/file/d/1Qro9R-UC-isUfcX6iCotFvIdsLiD6tzB/view?usp=share_link
         "
       />
       <ItemBar
@@ -36,16 +49,6 @@ function ItemCombinedRNA() {
         price="3,000"
         view=""
         down="https://drive.google.com/file/d/1KnCstBJ1cFNfBIFWiGycJVhhtF-bgW_E/view?usp=share_link
-        "
-      />
-      <ItemBar
-        color="#c4df9b"
-        title="RNA Vanish (Equivalent to RNA Zap)"
-        catno="RNA002"
-        qty="100 ml"
-        price="2,500"
-        view=""
-        down="https://drive.google.com/file/d/1Qro9R-UC-isUfcX6iCotFvIdsLiD6tzB/view?usp=share_link
         "
       />
       <ItemBar4
