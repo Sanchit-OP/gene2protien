@@ -12,6 +12,7 @@ export default function PrimerService(){
             <Title color="#7da7d9" data="Primer Synthesis" />
 
             <DarkText data="Coming Soon..." />
+            <div className="my-52"></div>
             <FooterOutside />
         </div>
     );

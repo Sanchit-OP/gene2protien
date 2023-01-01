@@ -1,4 +1,5 @@
 import FooterList from './FooterList';
+import FooterList1 from './FooterList1';
 import FooterSocial from './FooterSocial';
 
 function FooterRight(){
@@ -9,7 +10,7 @@ function FooterRight(){
         <div className="flex ml-48">
             <FooterList name={l1}/>
             <FooterList name={l2}/>
-            <FooterList name={l3}/>
+            <FooterList1 name={l3}/>
             {/* <FooterSocial/> */}
         </div>
     )

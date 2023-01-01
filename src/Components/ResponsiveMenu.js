@@ -55,7 +55,7 @@ export default function ResponsiveMenu() {
                 <a href="/Resources">Resources</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
-                <a href="">Career</a>
+                <a href="/Career">Career</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
                 <a href="/Contact">Contact</a>
@@ -78,7 +78,7 @@ export default function ResponsiveMenu() {
             <a className="mx-3 duration-100 hover:text-3xl" href="/Resources">Resources</a>
           </li>
           <li >
-            <a className="mx-3 duration-100 hover:text-3xl" href="">Career</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/Career">Career</a>
           </li>
           <li >
             <a className="mx-3 duration-100 hover:text-3xl" href="/Contact">Contact</a>

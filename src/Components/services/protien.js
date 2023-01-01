@@ -12,6 +12,7 @@ export default function Protein(){
             <Title color="#798cc9" data="Protein Crystallization" />
 
             <DarkText data="Coming Soon..." />
+            <div className="my-52"></div>
             <FooterOutside />
         </div>
     );

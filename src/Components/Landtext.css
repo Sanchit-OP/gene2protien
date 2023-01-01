@@ -1,9 +1,10 @@
 .banner-container {
-    background-image: url("../Ui/homebg1.png");
+    background-image: url("../Ui/homebg2.png");
     background-repeat: no-repeat;
     background-position: 100%;
-    background-size: 45%;
+    background-size: 37%;
     margin: 100px;
+    top: 20px;
     margin-bottom: 100px;
     margin-left: 160px;
     margin-top: -40px;

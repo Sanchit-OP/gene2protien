@@ -12,11 +12,13 @@ import Lion from '../Components/Lion';
 import LionMobile from '../Components/LionMobile';
 import WhatsNew from '../Components/WhatsNew';
 import Top from '../Components/top';
+import Top1 from '../Components/top1';
+import Top2 from '../Components/top2';
 
 function Home() {
   return (
     <div>
-      <Top />
+      <Top2 />
       <Landtext />
       <LandtextMobile />
       {/* <Slider /> */}

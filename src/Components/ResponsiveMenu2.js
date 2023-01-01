@@ -1,16 +1,19 @@
 import React from "react";
 import { useState } from "react"; // import state
 import LogoG from '../Ui/g20black.png';
+import LogoGn from '../Ui/Logonew2.svg';
 
 export default function ResponsiveMenu2() {
   const [isNavOpen, setIsNavOpen] = useState(false); // initiate isNavOpen state with false
 
   return (
     <div className="flex items-center justify-between py-8 " >
-      <div>
-        <a href="/">
-          <img className="max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80" src={LogoG} alt="logo" />
-        </a>
+
+     <div className="ml-20">
+      <a href="/">
+        <img className="max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80 h-20 w-auto" src={LogoGn} alt="logo" />
+      </a>
+
       </div>
       <nav>
         <section className="MOBILE-MENU flex lg:hidden">
@@ -55,7 +58,7 @@ export default function ResponsiveMenu2() {
                 <a href="/Resources">Resources</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
-                <a href="">Career</a>
+                <a href="/Career">Career</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
                 <a href="/Contact">Contact</a>
@@ -78,7 +81,7 @@ export default function ResponsiveMenu2() {
             <a className="mx-3 duration-100 hover:text-3xl" href="">Resources</a>
           </li>
           <li >
-            <a className="mx-3 duration-100 hover:text-3xl" href="">Career</a>
+            <a className="mx-3 duration-100 hover:text-3xl" href="/Career">Career</a>
           </li>
           <li >
             <a className="mx-3 duration-100 hover:text-3xl" href="/Contact">Contact</a>
