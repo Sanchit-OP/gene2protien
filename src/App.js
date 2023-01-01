@@ -27,8 +27,12 @@ import PolyCl from './Components/services/Antibody/polycl';
 import MonoCl from './Components/services/Antibody/monocl';
 import Phospho from './Components/services/Antibody/phospho';
 import Other from './Components/services/Antibody/other';
+
+import Resources from './pages/Resources';
+
 import Career from './pages/Career';
 import Distributor from './Components/Distributor';
+
 
 function App() {
   return (
@@ -39,16 +43,17 @@ function App() {
       <Route path='/products/pcr' element={<PCR />} />
       <Route path='/Contact' element={<ContactUs />} />
       <Route path='/About' element={<AboutUs />} />
-      <Route path='/products/restriction'element={<Restriction />} />
-      <Route path='/products/modifying'element={<Modify />} />
-      <Route path='/products/purification'element={<Purification />} />
-      <Route path='/products/rna'element={<RNA />} />
-      <Route path='/products/ladder'element={<Ladder/>} />
-      <Route path='/products/Dntps'element={<DNTP />} />
-      <Route path='/products/primers'element={<Primers />} />
-      <Route path='/products/buffers'element={<Buffers />} />
-      <Route path='/products/instrument'element={<Instrument />} />
-      <Route path='/products/flur'element={<Flu />} />
+      <Route path='/products/restriction' element={<Restriction />} />
+      <Route path='/products/modifying' element={<Modify />} />
+      <Route path='/products/purification' element={<Purification />} />
+      <Route path='/products/rna' element={<RNA />} />
+      <Route path='/products/ladder' element={<Ladder />} />
+      <Route path='/products/Dntps' element={<DNTP />} />
+      <Route path='/products/primers' element={<Primers />} />
+      <Route path='/products/buffers' element={<Buffers />} />
+      <Route path='/products/instrument' element={<Instrument />} />
+      <Route path='/products/flur' element={<Flu />} />
+      <Route path='/Resources' element={<Resources />} />
       <Route path='/Services' element={<Services />} />
       <Route path='/Services/Custom_Gene' element={<Cgene />} />
       <Route path='/Services/Site_Directed' element={<SiteDirected />} />
