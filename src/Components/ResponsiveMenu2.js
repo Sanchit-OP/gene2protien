@@ -7,10 +7,10 @@ export default function ResponsiveMenu2() {
 
   return (
     <div className="flex items-center justify-between py-8 " >
-     <div>
-      <a href="/">
-        <img className="max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80" src={LogoG} alt="logo" />
-      </a>
+      <div>
+        <a href="/">
+          <img className="max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80" src={LogoG} alt="logo" />
+        </a>
       </div>
       <nav>
         <section className="MOBILE-MENU flex lg:hidden">
@@ -52,7 +52,7 @@ export default function ResponsiveMenu2() {
                 <a href="/Services">Services</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
-                <a href="">Resources</a>
+                <a href="/Resources">Resources</a>
               </li>
               <li className="border-b border-gray-400 my-8 uppercase">
                 <a href="">Career</a>
