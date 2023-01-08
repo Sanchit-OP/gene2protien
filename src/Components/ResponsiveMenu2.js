@@ -11,7 +11,7 @@ export default function ResponsiveMenu2() {
 
      <div className="ml-0 md:ml-20">
       <a href="/">
-        <img className="max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80 h-20 w-auto " src={LogoGn} alt="logo" />
+        <img className=" w-5/6 md:w-auto max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80 h-20  " src={LogoGn} alt="logo" />
       </a>
 
       </div>
