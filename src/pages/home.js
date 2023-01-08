@@ -14,6 +14,7 @@ import WhatsNew from '../Components/WhatsNew';
 import Top from '../Components/top';
 import Top1 from '../Components/top1';
 import Top2 from '../Components/top2';
+import AboutNewMobile from '../Components/AboutNewMobile';
 
 function Home() {
   return (
@@ -21,11 +22,9 @@ function Home() {
       <Top2 />
       <Landtext />
       <LandtextMobile />
-      {/* <Slider /> */}
       <NoSlider />
       <AboutText />
-      <AboutTextMobile />
-      <LionMobile />
+      <AboutNewMobile />
       <FooterOutside />
     </div>
   );

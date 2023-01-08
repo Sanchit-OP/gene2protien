@@ -1,6 +1,6 @@
 import bolimg from "../Ui/whatsnewbol.png";
 import gel from "../Ui/gel.png";
-import { FaArrowDown } from "react-icons/fa";
+
 function AboutText() {
   return (
     <div className=" m-36  mt-30 hidden md:block">
