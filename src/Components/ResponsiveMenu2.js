@@ -9,16 +9,16 @@ export default function ResponsiveMenu2() {
   return (
     <div className="flex items-center justify-between py-8 " >
 
-     <div className="ml-20">
+     <div className="ml-0 md:ml-20">
       <a href="/">
-        <img className="max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80 h-20 w-auto" src={LogoGn} alt="logo" />
+        <img className="max-w-[17rem]  opacity-100 duration-[600ms] m-3 hover:opacity-80 h-20 w-auto " src={LogoGn} alt="logo" />
       </a>
 
       </div>
       <nav>
         <section className="MOBILE-MENU flex lg:hidden">
           <div
-            className="HAMBURGER-ICON space-y-2"
+            className="HAMBURGER-ICON space-y-2 mr-10"
             onClick={() => setIsNavOpen((prev) => !prev)} // toggle isNavOpen state on click
           >
             <span className="block h-0.5 w-8 animate-pulse bg-gray-600"></span>
