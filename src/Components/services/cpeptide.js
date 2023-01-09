@@ -10,7 +10,7 @@ export default function Cpeptide() {
       <Top2 color="#fdc689" />
       <Title color="#fdc689" data="Custom Peptide Synthesis" />
       <LightText data="Biotech Desk synthesizes locally in India as well as has tie-ups abroad to bring to the researcher quality custom peptides. State-of- the-art highly sophisticated instrumentation like the 400Hz NMR, FT-IR, MS, Amino Acid Analyzer, automated peptide synthesizers, analytical and preparative HPLC are employed for peptide synthesis. Our turnaround time for an average peptide is 3-4 weeks upon receiving an official order. Our prices are very competitive!" />
-      <div className="font-normal px-10 pb-10 ml-32 leading-9">
+      <div className="font-normal px-10 pb-10 ml-10 md:ml-32 leading-9">
         <ul className="list-disc">
           <li>Phospho-peptides, Biotin-labeled peptides available.</li>
           <li>Cyclic peptide and those with D-amino acids available.</li>

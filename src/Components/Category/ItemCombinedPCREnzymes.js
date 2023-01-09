@@ -6,7 +6,7 @@ function ItemCombinedPCREnzymes() {
 
   return (
     <div
-      className="grid gap-0 place-items-center pb-[10%]"
+      className="grid gap-0 place-items-center pb-[10%]  "
       style={{ backgroundColor: "white" }}
     >
       <ItemBarHead

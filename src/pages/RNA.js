@@ -10,7 +10,12 @@ function RNA() {
         <div>
             <Top2 color="#c4df9b" />
             <ItemTitle title="RNA Range" />
+            <div className="whitespace-nowrap overflow-scroll ">
+            <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
             <ItemCombinedRNA />
+            </div>
+            </div>
+
             <FooterOutside />
         </div>
     )

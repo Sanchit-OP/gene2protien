@@ -36,9 +36,9 @@ export default function MonoCl() {
         </ul>
       </div>
       <LightText data="Monoclonal antibody production using peptide as antigen" />
-      <img className="w-2/5 p-10 ml-20" src={img} />
+      <img className="md:w-2/5 p-10 md:ml-20" src={img} />
       <LightText data="Monoclonal antibody production using protein as antigen" />
-      <img className="w-2/5 p-10 ml-20" src={img2} />
+      <img className="md:w-2/5 p-10 md:ml-20" src={img2} />
       <FooterOutside />
     </div>
   );

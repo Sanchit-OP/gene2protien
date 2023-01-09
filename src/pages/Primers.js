@@ -10,7 +10,12 @@ function Primers() {
         <div>
             <Top2 color="#798cc9" />
             <ItemTitle title="Primers" />
+            <div className="whitespace-nowrap overflow-scroll ">
+      <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
             <ItemCombinedPrimer />
+            </div>
+            </div>
+            
             <FooterOutside />
         </div>
     )

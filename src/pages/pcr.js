@@ -9,7 +9,11 @@ function PCR() {
         <div>
             <Top2 color="#f69679" />
             <ItemTitle title="PCR Enzymes and Dyes" />
-            <ItemCombinedPCREnzymes />
+            <div className="whitespace-nowrap overflow-scroll ">
+                <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
+                    <ItemCombinedPCREnzymes />
+                </div>
+            </div>
             <FooterOutside />
         </div>
     )

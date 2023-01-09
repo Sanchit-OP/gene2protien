@@ -36,7 +36,7 @@ export default function Phospho() {
           </li>
         </ul>
       </div>
-      <img className="w-3/5 p-10 ml-20" src={img} />    
+      <img className="md:w-3/5 p-10 md:ml-20" src={img} />    
       <FooterOutside />
     </div>
   );

@@ -10,7 +10,12 @@ function Ladder() {
         <div>
             <Top2 color="#82ca9c" />
             <ItemTitle title="Ladders/Markers" />
+            <div className="whitespace-nowrap overflow-scroll ">
+      <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
+        
             <ItemCombinedLadder />
+            </div>
+            </div>
             <FooterOutside />
         </div>
     )
