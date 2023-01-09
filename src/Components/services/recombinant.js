@@ -14,8 +14,8 @@ export default function Recombination() {
       <LightText data="GenScript’s custom recombinant protein provides a comprehensive portfolio of recombinant protein expression systems that include :" />
       <div className="p-10 text-2xl font-semibold ml-10"  style={{ color: off }} >Bacterial Protein Expression system</div>
       <DarkText data="BacPower Guaranteed Bacterial Recombinant Protein Expression Service" />
-      <div className="font-semibold text-xl p-10 ml-14">Deliverables:</div>
-      <div className="font-normal px-10 pb-10 ml-32 leading-9">
+      <div className="font-semibold text-xl p-10 md:ml-14">Deliverables:</div>
+      <div className="font-normal px-10 pb-10 md:ml-32 leading-9">
         <ul className="list-disc">
           <li>
             Protein in buffered solution with your specified amount & purity –
@@ -30,8 +30,8 @@ export default function Recombination() {
       </div>
       <div className="p-10 text-2xl font-semibold ml-10"  style={{ color: off }} >Mammalian Expression system</div>
       <DarkText data="Transient Expression Service" />
-      <div className="font-semibold text-xl p-10 ml-14">Deliverables:</div>
-      <div className="font-normal px-10 pb-10 ml-32 leading-9 mb-10">
+      <div className="font-semibold text-xl p-10 md:ml-14">Deliverables:</div>
+      <div className="font-normal px-10 pb-10 md:ml-32 leading-9 mb-10">
         <ul className="list-disc">
           <li>Synthetic gene (as optional for semi-customizable)</li>
           <li>Target protein</li>
@@ -45,7 +45,7 @@ export default function Recombination() {
       <div className="font-semibold text-xl p-10 ml-14">
         Stable Cell Line Development Services
       </div>
-      <div className="font-normal px-10 pb-10 ml-32 leading-9 mb-10">
+      <div className="font-normal px-10 pb-10 md:ml-32 leading-9 mb-10">
         <ul className="list-disc">
           <li>
             <strong>Host cells:</strong>CHO, CHO-K1, Glutamine
@@ -60,8 +60,8 @@ export default function Recombination() {
       </div>
       <div className="p-10 text-2xl font-semibold ml-10" style={{ color: off }} >Baculovirus Expression system</div>
       <DarkText data="BacuVance Baculovirus Expression Service" />
-      <div className="font-semibold text-xl p-10 ml-14">Deliverables:</div>
-      <div className="font-normal px-10 pb-10 ml-32 leading-9 mb-10">
+      <div className="font-semibold text-xl p-10 md:ml-14">Deliverables:</div>
+      <div className="font-normal px-10 pb-10 md:ml-32 leading-9 mb-10">
         <ul className="list-disc">
           <li>Construct report</li>
           <li>5 ml, &gt;108 pfu/ml virus stock</li>
@@ -80,7 +80,7 @@ export default function Recombination() {
       <div className="p-10 text-2xl font-semibold ml-10" style={{ color: off }}  >Other Protein Expression systems</div>
       <DarkText data="PROTential Protein expression service" />
       <LightText data="PROTential Protein expression evaluation & optimization service is to test expression conditions of client gene(s) in the expression system(s) of their choice. It is a small scale Expression Evaluation available in customized packages with below features." />
-      <div className="font-normal px-10 pb-10 ml-32 leading-9 mb-10">
+      <div className="font-normal px-10 pb-10 md:ml-32 leading-9 mb-10">
         <ul className="list-disc">
           <li>
             Evaluate whether the target protein expresses in chosen expression

@@ -10,7 +10,11 @@ function Purification() {
         <div>
             <Top2 color="#fff799"/>
             <ItemTitle title="Purification Products" />
+            <div className="whitespace-nowrap overflow-scroll ">
+      <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
             <ItemCombinedPurify />
+            </div>
+            </div>
             <FooterOutside />
         </div>
     )

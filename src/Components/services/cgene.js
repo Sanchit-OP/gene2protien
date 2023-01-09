@@ -12,10 +12,10 @@ export default function Cgene() {
       <DarkText data="Why waste time cloning and sequencing your gene when we do it all for you!" />
       <DarkText data="We have partnered with Genscript, the world leader in Gene synthesis technology to provide you unmatched service for synthesizing your genes in India." />
 
-      <div className="font-semibold text-xl p-10 ml-14">
+      <div className="font-semibold text-xl p-10 md:ml-14">
         Gene Synthesis service features:
       </div>
-      <div className="font-normal px-10 pb-10 ml-32 leading-9">
+      <div className="font-normal px-10 pb-10 mb-10 md:ml-32 leading-9">
         <ul className="list-disc">
           <li>Codon optimization.</li>
           <li>

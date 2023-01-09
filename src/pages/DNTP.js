@@ -10,7 +10,11 @@ function DNTP() {
         <div>
             <Top2 color="#7da7d9" />
             <ItemTitle title="DNPTs" />
+            <div className="whitespace-nowrap overflow-scroll ">
+      <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
             <ItemCombinedDNPT />
+            </div>
+            </div>
             <FooterOutside />
         </div>
     )

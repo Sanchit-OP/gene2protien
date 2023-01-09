@@ -10,7 +10,11 @@ function Flu() {
         <div>
             <Top2 color="#f49ac1" />
             <ItemTitle title="Fluorescent Dyes/Quencher" />
+            <div className="whitespace-nowrap overflow-scroll ">
+      <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
             <ItemCombinedFlu />
+            </div>
+            </div>
             <FooterOutside />
         </div>
     )

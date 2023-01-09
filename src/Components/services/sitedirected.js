@@ -16,10 +16,10 @@ export default function SiteDirected() {
       />    
       <LightText data="Mutations on Large DNA Constructs: Our technology is optimized to introduce point mutations, insertion mutations, and deletion mutations on constructs as large as 12 kb." />
       <LightText data="The fastest and usually the most cost-effective, way to get the mutant DNA constructs you need is to order the Mutagenesis service bundled with Gene synthesis. However you are welcome to submit your own DNA templates for mutagenesis." />
-      <div className="font-semibold text-xl p-10 ml-14">
+      <div className="font-semibold text-xl p-10 md:ml-14">
         Deliverables:
       </div>
-      <div className="font-normal px-10 pb-10 ml-32 leading-9">
+      <div className="font-normal px-10 pb-10 md:ml-32 leading-9">
         <ul className="list-disc">
             <li> 4 μg lyophilized destination vector containing the gene</li>
             <li>Sequence chromatograms covering target gene</li>

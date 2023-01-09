@@ -10,7 +10,11 @@ function Buffers() {
         <div>
             <Top2 color="#9873bf" />
             <ItemTitle title="Buffers" />
+            <div className="whitespace-nowrap overflow-scroll ">
+            <div className="ml-[-100px] md:ml-0 w-[300%] md:w-[100%] ">
             <ItemCombinedBuffer/>
+            </div>
+            </div>
             <FooterOutside />
         </div>
     )

@@ -33,7 +33,7 @@ export default function PolyCl() {
         </ul>
       </div>
       <LightText data="Specifications" />
-        <img className="w-2/5 p-10 ml-20" src={img} />
+        <img className="md:w-2/5 p-10 md:ml-20" src={img} />
       <DarkText data="*Each package only applies to a single protein sequence." />
       <FooterOutside />
     </div>
