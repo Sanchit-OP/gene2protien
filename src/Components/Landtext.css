@@ -75,6 +75,12 @@
     margin-top: 15px;
     align-items: center;
 }
+.border-vid{
+    border: black;
+    border-radius: 10%;
+    border: 2px;
+    box-shadow: #000000;
+}
 /* #Bottle-style{
     position:relative;
     top: -200px;

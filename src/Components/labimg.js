@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Labimg(){
     return(
-        <div className='mb-10 md:p-10' >
+        <div className='mb-10  md:p-10' >
             <img src={L1} />
         </div>
     );
